@@ -56,9 +56,6 @@
   <p>You can drag & drop items freely in the navigation menu. Therefore, it's easy to create your menu of columns and rows depending on the requirement. Also, you can re-arrange your menu order at a glance thanks to this amazing feature.</p>
   </div>
     </td>
-
-    <td>
-       <div class="col-md-6">
   <p><img title="Magento 2 Mega Menu | Drag &amp; Drop" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Drag_Drop.png" alt="Magento 2 Mega Menu | Drag &amp; Drop" width="555" height="371"</p>
   </div>
     </td>
@@ -70,9 +67,6 @@
   <p><img title="Magento 2 Mega Menu | Display different types" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Types.png" alt="Magento 2 Mega Menu | Display different types" width="555" height="250"</p>
   </div>
     </td>
-
-    <td>
-      <div class="col-md-6">
   <h3 <span style="color: #ff5510"> 2. Display menu in different types <span>  </h3>
   <p>First, you can set your menu in horizontal, vertical or accordion style. Then, choose the “Type" option to apply for your menu from the backend and you can immediately see how it looks in the storefront. Above all, menu items will be arranged beautifully and visible at once. Learn more</p>
   </div>
@@ -87,9 +81,6 @@
   <p>Use your own imagination and creativity to make your menu more interesting. For this purpose, you can assign an image or a picture directly from your computer or using the URL. Moreover, our 7 elements can be added to the top, bottom, and side of your menu, fitting it gracefully. More details</p>
   </div>
     </td>
-
-    <td>
-       <div class="col-md-6">
   <p><img title="Magento 2 Mega Menu | Supported elements" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Supported_elements.png" alt="Magento 2 Mega Menu | Supported elements" width="555" height="348"</p>
   </div>
     </td>
@@ -103,8 +94,6 @@
   </div>
     </td>
 
-    <td>
-      <div class="col-md-6">
 <h3 <span style="color: #ff5510"> 4. Fully Responsive UI design <span>  </h3>
   <p>As you know, responsive web design is essential in your e-commerce website so Ninja Menus is tested successfully in all modern browsers and mobiles. Now, your customers can shop whenever and wherever possible, with any device. Now, no more loading huge website design on such a tiny mobile screen! No more zoom in and out to find what you want!</p>
   </div>
@@ -120,8 +109,7 @@
   </div>
     </td>
 
-    <td>
-       <div class="col-md-6">
+
   <p><img title="Magento 2 Mega Menu | Cache supported" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Cache_supported.png" alt="Magento 2 Mega Menu | Cache supported" width="555" height="197"></p>
   </div>
     </td>
@@ -135,8 +123,7 @@
   </div>
     </td>
 
-    <td>
-       <div class="col-md-6">
+
   <h3 <span style="color: #ff5510"> 6. Support multiple stores and languages <span>  </h3>
   <p>The more language preferences your site get, the more convincing it will be. With Ninja Menus, you can create Store Views for different languages. As a result, your customers can switch to their referenced alternatives with ease.</p>
   </div>
@@ -151,9 +138,6 @@
   </div>
     </td>
 
-    <td>
-       <div class="col-md-6">
-         <p>
   <img title="Magento 2 Mega Menu | Multi levels " src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Multi_levels.png" alt="Magento 2 Mega Menu | Multi levels " width="766" height="600">
 </p>
   </div>
@@ -165,8 +149,7 @@
    </div>
      </td>
 
-     <td>
-        <div class="col-md-6">
+ 
    <h3 <span style="color: #ff5510"> 8. Customize the menu design with ease   <span>  </h3>
    <p>With Ninja Menus, you can now be a stylist making your menu creatively without editing CSS file. No coding technique, no technical skill required. Customize your menu styles in background color, border style, font style, padding, etc.  just by working with the Design Option tab.</p>
    </div>

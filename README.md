@@ -8,9 +8,6 @@
   a
     </td>
 
-    <td>
-  b
-    </td>
    </tr>
 
 </table>

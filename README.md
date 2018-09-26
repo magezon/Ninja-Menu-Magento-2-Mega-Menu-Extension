@@ -4,15 +4,15 @@
   
   <tr>
     <td>
-      <div>
+      <p>
   a
-</div>
+</p>
     </td>
 
     <td>
-        <div>
+        <p>
   b
-</div>
+</p>
     </td>
    </tr>
 

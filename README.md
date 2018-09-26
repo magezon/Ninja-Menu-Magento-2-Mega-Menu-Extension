@@ -4,16 +4,9 @@
   
   <tr>
     <td>
-      <p>
-  a
-</p>
+      a
     </td>
 
-    <td>
-        <p>
-  b
-</p>
-    </td>
    </tr>
 
 </table>

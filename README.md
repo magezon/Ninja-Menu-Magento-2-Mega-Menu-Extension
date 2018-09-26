@@ -1,5 +1,5 @@
 
-  <h1><a href="https://www.magezon.com/magento-2-mega-menu.html">Magento 2 Ninja Mega Menu Extension - Easy With Drag & Drop Interface</a></h1>
+  <h1><a href="https://www.magezon.com/magento-2-mega-menu.html">Magento 2 Ninja Mega Menu Extension <br/> Easy With Drag & Drop Interface</a></h1>
   <br/><br/>
   <table border="0">
    <tr>

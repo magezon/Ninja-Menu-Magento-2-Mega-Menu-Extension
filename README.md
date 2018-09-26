@@ -5,7 +5,7 @@
    <tr>
     <td width="30%" valign="top" style="
       border: none;
-  "><br><a href="https://www.magezon.com/magento-2-lazy-load.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/m/a/magento_2_mega_menu_ninja_menus_1.png" alt="Magento 2 Mega Menus | Ninja Menus" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
+  "><br><a href="https://www.magezon.com/magento-2-mega-menu.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/m/a/magento_2_mega_menu_ninja_menus_1.png" alt="Magento 2 Mega Menus | Ninja Menus" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
     <td style="border:none;"><br>
   <div class="product attribute overview">
   <div class="value">
@@ -45,7 +45,7 @@
   </ul>
   <br/>
   <h2>Feature Highlights </h2>
-  <table border="">
+  <table>
     <tbody>
   <tr>
     <td width="50%">

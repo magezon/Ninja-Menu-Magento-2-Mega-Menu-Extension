@@ -1,238 +1,451 @@
-<h1><a href="https://www.magezon.com/magento-2-lazy-load.html">Magento 2 Lazy Load Extension - Speed Up By 70%</a></h1>
-<br/><br/>
-<table border="0">
- <tr>
-  <td width="30%" valign="top" style="
-    border: none;
-"><br><a href="https://www.magezon.com/magento-2-lazy-load.html"><img src="https://www.magezon.com/pub/media/catalog/product/l/a/lazyload.png" alt="Easy &amp; Powerful" aria-labelledby="labelledby1532744514419" class="fotorama__img" aria-hidden="false"></a></td>
-  <td style="border:none;"><br>
-<div class="product attribute overview">
-<div class="value">
+<html>
+  <head>
 
-<strong>Magento 2 Lazy Load Extension</strong> helps speed up websites by 70% with the mechanism of loading images and videos on demand. Therefore, this is a wise choice for you to optimize your site's performance.
-<ul class="firebase-list">
- 	<li>Delay images and videos loading until users scroll down</li>
- 	<li>Optimize SEO for Magento 2 websites</li>
- 	<li>Reduce server bandwidth</li>
- 	<li>Apply to all pages</li>
- 	<li>Support both image and video lazy loading</li>
- 	<li>Create smooth loading transition</li>
- 	<li>Configure the threshold</li>
-</ul>
-</div>
-</div>
-<div class="compatibility">
+    <style>
+img {
+    max-width: 100%
+}
+    </style>
 
-<span class="compatibility"><b>Community Edition:</b> 2.0.x - 2.2.x
-<b>Enterprise Edition:</b> 2.0.x - 2.2.x</span>
+  </head>
+  <body>
+  <h1><a href="https://www.magezon.com/magento-2-mega-menu.html">Magento 2 Ninja Mega Menu Extension</a></h1>
+  <br/><br/>
+  <table border="0">
+   <tr>
+    <td width="30%" valign="top" style="
+      border: none;
+  "><br><a href="https://www.magezon.com/magento-2-lazy-load.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/m/a/magento_2_mega_menu_ninja_menus_1.png" alt="Magento 2 Mega Menus | Ninja Menus" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
+    <td style="border:none;"><br>
+  <div class="product attribute overview">
+  <div class="value">
 
-</div></td>
- </tr>
-</table>
-<br/>
-<h2>Overview</h2>
-<p style="text-align: left;">It is a constant worry for most Magento 2 website owners as a default web page will load all images and videos at the same time. The consequence is that the page loading will slow down and customers will leave the website immediately due to waiting for a long time. Understanding this problem, Magezon has developed Magento 2 Lazy Load Extension which allows loading images and videos only when they enter the viewport as customers scroll down the page.</p>
-<p style="text-align: left;">With this extension, your website will load <b>UP TO 70%</b> faster. Hence, the chance that customers stay longer to browse your page will increase. It is also a useful tool to improve your SEO ranking and save server bandwidth. Especially, the extension works effectively with all pages such CMS pages, home page, category pages, product pages, etc.</p>
-<br/>
-<h2>Business Vallues</h2>
-<ul class="firebase-list">
- 	<li><strong>Improve user experience greatly </strong>by reducing the page load time.</li>
- 	<li><strong>SEO your website to higher Google ranking</strong> with faster loading speed.</li>
- 	<li><strong>Save money</strong> by reducing server's bandwidth usage.</li>
-</ul>
-<br/>
-<h2>Feature Highlights </h2>
-<table>
- 
- <tr>
-  <td width="50%">
-     <div class="col-md-6">
-<h3 style="font-weight: 600;">Delay image and video loading until users scroll down</h3>
-<p>With Magento 2 Lazy Load Extension, your website will not load images and videos until a user scrolls down to them. As a result, the load time will decrease sharply.</p>
-</div>
-  </td>
-  
-  <td>
-     <div class="col-md-6">
-<p><img title="Delay image &amp; video loading until users scroll down" src="https://www.magezon.com/pub/media/wysiwyg/extension/lazy-load/1._Delay_images_and_videos_loading_until_users_scroll_down.png" alt="Magento 2 Lazy Load Extension delays image &amp; video loading until users scroll down"></p>
-</div>
-  </td>
- </tr>
- 
- <tr>
-  <td width="50%">
-     <div class="col-md-6">
-<p><img title="Improve SEO rankings on Google" src="https://www.magezon.com/pub/media/wysiwyg/extension/lazy-load/2._Optimize_SEO_for_Magento_stores.png" alt="Improve SEO rankings on Google"></p>
-</div>
-  </td>
-  
-  <td>
-    <div class="col-md-6">
-<h3 style="font-weight: 600;">Optimize SEO for Magento 2 websites</h3>
-<p>Lazy loading results in faster website speed. This is one of main factors leading to high Google rankings.</p>
-</div>
-  </td>
- </tr>
- 
- 
- <tr>
-  <td width="50%">
-     <div class="col-md-6">
-<h3 style="font-weight: 600;">Reduce server bandwidth</h3>
-<p>By loading images and videos on demand, you can reduce server requests and page size. This will certainly save a huge amount of bandwidth for your website.</p>
-</div>
-  </td>
-  
-  <td>
-     <div class="col-md-6">
-<p><img title="Reduce server bandwidth" src="https://www.magezon.com/pub/media/wysiwyg/extension/lazy-load/3._Save_server_bandwidth.png" alt="Reduce server bandwidth"></p>
-</div>
-  </td>
- </tr>
- 
- 
- <tr>
-  <td width="50%">
+  <strong>Magento 2 Ninja Mega Menu Extension</strong> Magento 2 mega menu is an EASY-TO-USE  and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
+  <ul class="firebase-list">
+   	<li>Drag & drop Magento 2 Mega Menu Builder</li>
+   	<li>Support horizontal, vertical, accordion navigation menu</li>
+   	<li>Make your menu more attractive with 7 elements supported</li>
+   	<li>Fully responsive UI design</li>
+   	<li>Fastest load time, cache supported</li>
+   	<li>Support multiple stores and languages</li>
+   	<li>Create unlimited levels</li>
+    <li>Customize the menu design with ease</li>
+  </ul>
+  </div>
+  </div>
+  <div class="compatibility">
+
+  <span class="compatibility"><b>Community Edition:</b> 2.0.x - 2.2.x
+  <b>Enterprise Edition:</b> 2.0.x - 2.2.x</span>
+
+  </div></td>
+   </tr>
+  </table>
+  <br/>
+  <h2>Overview</h2>
+  <p style="text-align: left;">Do you find your website on Magento 2 mega menu is too simple and unattractive? Do you want to boost your customer’s shopping experience by finding exactly what they want in just one click? Want to easily customize your own menus of your style but have no technical skills? With the help of our Magento 2 Ninja Menus Extension, you can not only solve all these problems but also creatively make a comprehensive menu system by yourself.</p>
+  <p style="text-align: left;">No technical or coding knowledge is required! The simple and intuitive drag & drop interface of our Magento 2 Mega Menu Extension helps instantly create any desired menus with tons of complex structures from the backend. Now you don't have to worry about any risks and mistakes anymore. It supports 3 different types and 7 additional elements on the navigation menu. Hence, you can make a creative menu your way showing off all products effectively. Above all, your site is still browsing in a stable speed at that time.</p>
+  <p style="text-align: left;">Your customers are now provided with the ability to navigate your online store. They can also find what they’re really looking for in next to no time. Moreover, Magento 2 Ninja Menus Extension is 100% responsive, which means your menu will automatically adapt to any screen size of any devices. Users might browse through your site on the computer screen, tablets or even mobile phones.</p>
+  <br/>
+  <h2>Business Vallues</h2>
+  <ul class="firebase-list">
+   	<li><strong>Time and money saving</strong>:Our amazing Ninja Menus helps you customize without any coding knowledge in minutes. You may fall in love with our <strong>intuitive drag & drop interface</strong>. It helps create and manage your menus easily and perfectly.  Of course, no expense for the programmer is needed. </li>
+   	<li><strong>Boost your own experience</strong> : Having problems organizing a wide range of menu items in your online store? Don't worry, with Magento 2 Ninja Menus Extension, changing the hierarchy of parent and child relationships for the items from the backend is now a piece of cake. In order to do this, you just Simply drag and drop the items to the desired place to make the layout your way. Besides, with our <strong>cache support</strong>, you can overcome the anxiety of speed slowdown while browsing your site.</li>
+   	<li><strong>Improve customers’ experience greatly</strong>:<strong> Being 100% responsive</strong> means no need to worry about which platform your website is running on. For this reason, your customers can shop at any time, any place by any device they get. In addition, the user-friendly interface of Magento 2 mega menu makes it easier than ever to find their items.</li>
+  </ul>
+  <br/>
+  <h2>Feature Highlights </h2>
+  <table border="">
+    <tbody>
+  <tr>
+    <td width="50%">
+       <div class="col-md-6">
+  <h3 <span style="color: #ff5510"> 1. Drag & Drop Magento 2 mega menu Builder <span>  </h3>
+  <p>You can drag & drop items freely in the navigation menu. Therefore, it's easy to create your menu of columns and rows depending on the requirement. Also, you can re-arrange your menu order at a glance thanks to this amazing feature.</p>
+  </div>
+    </td>
+
+    <td>
+       <div class="col-md-6">
+  <p><img title="Magento 2 Mega Menu | Drag &amp; Drop" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Drag_Drop.png" alt="Magento 2 Mega Menu | Drag &amp; Drop" width="555" height="371"</p>
+  </div>
+    </td>
+   </tr>
+
+   <tr>
+    <td width="50%">
+       <div class="col-md-6">
+  <p><img title="Magento 2 Mega Menu | Display different types" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Types.png" alt="Magento 2 Mega Menu | Display different types" width="555" height="250"</p>
+  </div>
+    </td>
+
+    <td>
       <div class="col-md-6">
-<p><img title="Apply to all pages including home page" src="https://www.magezon.com/pub/media/wysiwyg/extension/lazy-load/4._Apply_to_all_pages.png" alt="Apply to all pages including home page"></p>
-</div>
-  </td>
-  
-  <td>
-    <div class="col-md-6">
-<h3 style="font-weight: 600;">Apply to all pages</h3>
-<p>Our extension works with all kinds of pages including CMS pages, home page, category pages, product pages, etc.</p>
-</div>
-  </td>
- </tr>
- 
- 
- <tr>
-  <td width="50%">
+  <h3 <span style="color: #ff5510"> 2. Display menu in different types <span>  </h3>
+  <p>First, you can set your menu in horizontal, vertical or accordion style. Then, choose the “Type" option to apply for your menu from the backend and you can immediately see how it looks in the storefront. Above all, menu items will be arranged beautifully and visible at once. Learn more</p>
+  </div>
+    </td>
+   </tr>
+
+
+   <tr>
+    <td width="50%">
+       <div class="col-md-6">
+    <h3 <span style="color: #ff5510"> 3. Make your menu more attractive with 7 elements supported. <span>  </h3>
+  <p>Use your own imagination and creativity to make your menu more interesting. For this purpose, you can assign an image or a picture directly from your computer or using the URL. Moreover, our 7 elements can be added to the top, bottom, and side of your menu, fitting it gracefully. More details</p>
+  </div>
+    </td>
+
+    <td>
+       <div class="col-md-6">
+  <p><img title="Magento 2 Mega Menu | Supported elements" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Supported_elements.png" alt="Magento 2 Mega Menu | Supported elements" width="555" height="348"</p>
+  </div>
+    </td>
+   </tr>
+
+
+   <tr>
+    <td width="50%">
+        <div class="col-md-6">
+  <p><img title="Magento 2 Mega Menu | Fully responsive design" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_100_Responsive.png" alt="Magento 2 Mega Menu | Fully responsive design" width="555" height="359"></p>
+  </div>
+    </td>
+
+    <td>
       <div class="col-md-6">
-<h3 style="font-weight: 600;">Support both image and video lazy loading</h3>
-<p>You are finding an extension for Magento 2 lazy load images as well as videos? Then our extension is your right choice.</p>
-</div>
-  </td>
-  
-  <td>
-     <div class="col-md-6">
-<p><img title="Support both image and video lazy loading" src="https://www.magezon.com/pub/media/wysiwyg/extension/lazy-load/5._Support_both_image_and_video_lazy_loading.png" alt="Support both image and video lazy loading"></p>
-</div>
-  </td>
- </tr>
- 
- 
- <tr>
-  <td width="50%">
-     <div class="col-md-6">
-<p><img title="Create smooth loading transition with blur effect and placeholder upload" src="https://www.magezon.com/pub/media/wysiwyg/extension/lazy-load/6._Create_smooth_loading_transition.png" alt="Create smooth loading transition with blur effect and placeholder upload"></p>
-</div>
-  </td>
-  
-  <td>
-     <div class="col-md-6">
-<h3 style="font-weight: 600;">Create smooth loading transition</h3>
-<p>In the admin panel, you can choose to enable the low resolution image function. By doing this, a blurred preview image will appear before the real one is loaded. You can also upload your own placeholder image to make your website more eye-catching.</p>
-</div>
-  </td>
- </tr>
- 
- 
- <tr>
-  <td width="50%">
-      <div class="col-md-6">
-<h3 style="font-weight: 600;">Configure the threshold</h3>
-<p>By configuring the threshold, you can decide how soon to load images and videos. By default, the threshold is set ‘200’. It means that if the distance between the scrollbar thumb and the image/video is within 200 pixels, then the image/video will appear. If you want to load images and videos earlier, you can increase the number.</p>
-</div>
-  </td>
-  
-  <td>
-     <div class="col-md-6">
-<p><img title="Configure the threshold to decide how soon to load images &amp; videos" src="https://www.magezon.com/pub/media/wysiwyg/extension/lazy-load/7._Configure_the_threshold.png" alt="Configure the threshold to decide how soon to load images &amp; videos"></p>
-</div>
-  </td>
- </tr>
- 
- </table>
-<br/>
-<h2>Conclusion</h2>
-With these features, our Magento 2 Lazy Load Extension is a valuable tool to speed up your site loading for smooth user experience, boost SEO rankings and save money. For more tips to optimize your website speed, you can refer to <a title="Tips to speed up page loading in Magento 2" href="http://blog.magezon.com/2018/07/26/how-to-speed-up-page-loading-in-magento-2/" target="_blank" rel="noopener">How to speed up page loading in Magento 2?</a>.
-
-<br/><br/>
-<h2>Frequently Asked Questions</h2>
-<div>
- <h3><b>Installation Instructions ?</b></h3>
- <p>
-  To install this extension, please refer to<a href="https://magezon.com/pub/media/productfile/lazyload-v1.0.0-installation-guides.pdf"> Installation Guides Magento 2 Lazy Load Extension </a>for detailed instructions. It will take you just a few minutes to install our extension.
- </p>
- </div>
- 
- <br/>
- <div>
- <h3><b>
-  I’m using a CDN. Will this extension interfere ?
-  </b></h3>
- <p>
-  Surely not. Our Lazy Load extension works just fine. The images & videos will still load from your CDN.
- </p>
- </div>
-
-<br/>
- <div>
- <h3><b>
-  Do I need to configure anything so that images & videos can be lazy loaded ?
-  </b></h3>
- <p>
-  No configuration is needed. By default, our extension automatically works with all images & videos you upload. 
- </p>
- </div>
+<h3 <span style="color: #ff5510"> 4. Fully Responsive UI design <span>  </h3>
+  <p>As you know, responsive web design is essential in your e-commerce website so Ninja Menus is tested successfully in all modern browsers and mobiles. Now, your customers can shop whenever and wherever possible, with any device. Now, no more loading huge website design on such a tiny mobile screen! No more zoom in and out to find what you want!</p>
+  </div>
+    </td>
+   </tr>
 
 
+   <tr>
+    <td width="50%">
+        <div class="col-md-6">
+  <h3 <span style="color: #ff5510"> 5. Fastest load time, Cache Supported <span>  </h3>
+  <p>In fact, no one should wait for a slowly loading pages. In order to enhance your sale, we make your Magento store faster by supporting super cache feature. This will generate static HTML menu code and bypass the interaction with the database on every page load.  </p>
+  </div>
+    </td>
 
-<br/>
- <div>
- <h3><b>
-  How can I verify that the extension is working ?
-  </b></h3>
- <p>
-  After installing Lazy Load, if you see your website runs with features exactly like our demo, then the extension is working. Also, the biggest change is that your website will load much faster. 
- </p>
- </div>
-
-
-
-<br/>
- <div>
- <h3><b>
-  How can I check my website speed ?
-  </b></h3>
- <p>
-  You can use these two reliable tools to check your website speed: <a href="https://gtmetrix.com/">GTmetrix</a> and <a href="https://developers.google.com/speed/pagespeed/insights/?hl=eng"> Google PageSpeed Insights. </a>
- </p>
- </div>
+    <td>
+       <div class="col-md-6">
+  <p><img title="Magento 2 Mega Menu | Cache supported" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Cache_supported.png" alt="Magento 2 Mega Menu | Cache supported" width="555" height="197"></p>
+  </div>
+    </td>
+   </tr>
 
 
+   <tr>
+    <td width="50%">
+       <div class="col-md-6">
+  <p><img title="Magento 2 Mega Menu | Multi stores and languages" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Multi_stores_and_languages.png" alt="Magento 2 Mega Menu | Multi stores and languages" width="555" height="347"></p>
+  </div>
+    </td>
 
-<br/>
- <div>
- <h3><b>
-  How do I change the placeholder image ?
-  </b></h3>
- <p>
-  After navigating to Stores > Configuration > Magezon Extensions > Lazy Load in the backend, you will see the line ‘Placeholder Image’. Click ‘Choose File’ and upload your desired images.
- </p>
- </div>
+    <td>
+       <div class="col-md-6">
+  <h3 <span style="color: #ff5510"> 6. Support multiple stores and languages <span>  </h3>
+  <p>The more language preferences your site get, the more convincing it will be. With Ninja Menus, you can create Store Views for different languages. As a result, your customers can switch to their referenced alternatives with ease.</p>
+  </div>
+    </td>
+   </tr>
+
+   <tr>
+    <td width="50%">
+        <div class="col-md-6">
+  <h3 <span style="color: #ff5510">7. Create unlimited levels<span>  </h3>
+  <p>Our Magento 2 Ninja Menus Extension allows you to generate an unlimited multi-level navigation. One category can be dragged above, below or inside another category. You can create all the levels at the same time. Also, you can control their positions in the real menu on the storefront. </p>
+  </div>
+    </td>
+
+    <td>
+       <div class="col-md-6">
+         <p>
+  <img title="Magento 2 Mega Menu | Multi levels " src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Multi_levels.png" alt="Magento 2 Mega Menu | Multi levels " width="766" height="600">
+</p>
+  </div>
+    </td>
+    <tr>
+     <td width="50%">
+        <div class="col-md-6">
+   <p><img title="Magento 2 Mega Menu | Customize design" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Customize_item_.png" alt="Magento 2 Mega Menu | Customize design" width="555" height="274"></p>
+   </div>
+     </td>
+
+     <td>
+        <div class="col-md-6">
+   <h3 <span style="color: #ff5510"> 8. Customize the menu design with ease   <span>  </h3>
+   <p>With Ninja Menus, you can now be a stylist making your menu creatively without editing CSS file. No coding technique, no technical skill required. Customize your menu styles in background color, border style, font style, padding, etc.  just by working with the Design Option tab.</p>
+   </div>
+     </td>
+    </tr>
+
+
+   </table>
+
+  <br/>
+  <h2>FEATURES FULL LIST</h2>
+  <ul>
+    <li> <a target="blank">Drag & drop Magento 2 Menu Builder</a></li>
+    <li> <a target="blank">Support horizontal, vertical, accordion navigation menu</a></li>
+    <li> <a target="blank">Support 7 elements: anchor, container, html, image, heading, divider, clear columns </a></li>
+    <li> <a target="blank">100% fully responsive</a></li>
+    <li> <a target="blank">Fastest load time, cache supported</a></li>
+    <li> <a target="blank">Support multiple stores and languages</a></li>
+    <li> <a target="blank">Create unlimited levels</a></li>
+    <li> <a target="blank">Skin builder</a></li>
+    <li> <a target="blank">Support multi-column</a></li>
+      <li><a target="blank">Links categories, CMS pages, custom link</a></li>
+        <li><a target="blank">Support widget</a></li>
+          <li><a target="blank">Instant import store categories</a></li>
+            <li><a target="blank">Enhanced font awesome icons</a></li>
+              <li><a target="blank">Create unlimited menus</a></li>
+                <li><a target="blank">Built-in LESS stylesheets</a></li>
+                  <li><a target="blank">90-day free support</a></li>
+                    <li><a target="blank">30-day money back</a></li>
+                      <li><a target="blank">100% open source</a></li>
+                      <li><a target="blank">Easy to install and configure</a></li>
+                      <li><a target="blank">User-friendly interface</a></li>
+                      <li><a target="blank">Free lifetime upgrades</a></li>
+                      <li><a target="blank">No core code change</a></li>
+
+
+  <br/><br/>
+  <br/><br/>
+  <h2>Frequently Asked Questions</h2>
+  <div>
+   <p>
+    Do you have any questions about Magento 2 Ninja Menu? See the list below for our most frequently asked questions. If your questions are not listed here, please contact us.
+   </p>
+   </div>
+
+   <br/>
+   <div>
+   <h3><b>
+    <i>Installation Instructions</i>
+    </b></h3>
+   <p>
+      To install this extension, please refer to Magento 2 Ninja Menu Installation Guide for detailed instructions. It will take you just a few minutes to install our extension.
+   </p>
+   </div>
+
+  <br/>
+   <div>
+   <h3><b>
+  <i>Who should use Ninja Menu??</i>
+    </b></h3>
+   <p>
+  Anyone who wants to improve sales by making the menu more attractive and easier-to-use. No coding or technical skill required.
+   </p>
+   </div>
 
 
 
-<br/>
- <div>
- <h3><b>
-  Will I get free support and updates ?
-  </b></h3>
- <p>
-  Absolutely. Magezon provides lifetime free updates, 90-day free support and free installation support.
- </p>
- </div>
+  <br/>
+   <div>
+   <h3><b>
+    <i>Why should I use Ninja Menus?</i>
+    </b></h3>
+   <p>
+  What is more important to the sale than being able to manage your menu in your own style, making it special, unique and eye-catching but still user-friendly? Our Magento 2 Ninja mega menu is absolutely what you are looking for to improve your menu layout.
+   </p>
+   </div>
 
+
+
+  <br/>
+   <div>
+   <h3><b>
+    <i>How can I check my website speed ?</i>
+    </b></h3>
+   <p>
+    You can use these two reliable tools to check your website speed: <a href="https://gtmetrix.com/">GTmetrix</a> and <a href="https://developers.google.com/speed/pagespeed/insights/?hl=eng"> Google PageSpeed Insights. </a>
+   </p>
+   </div>
+
+
+
+  <br/>
+   <div>
+   <h3><b>
+  <i>Will Ninja Menus affect my website's speed?</i>
+    </b></h3>
+   <p>
+    Of course not. Being cache supported means no need to make an HTTP request to load assets like scripts, CSS, and images anymore. Also, your websites can serve content in next to no time, improve both front-end and back-end load times, and reduce stress on the website’s origin server.
+   </p>
+   </div>
+
+
+
+  <br/>
+   <div>
+   <h3><b>
+  <i>How to add the background to the submenu?</i>
+    </b></h3>
+   <p>
+  With the help of Ninja Menus, adding image background for the submenu is now a piece of cake. Just by following some easy steps. Take a look at our User guide to get more details.
+   </p>
+   </div>
+
+
+
+   <br/>
+   <div>
+   <h3><b>
+   <i>How to Configure menu item for Multiple Store view?</i>
+   </h3></b>
+   <p>
+     Just by choosing any language in “All store view" drop-down list. More details here.
+   </p>
+   </div>
+
+
+   <br/>
+   <div>
+   <h3><b>
+   <i>How to import Store Categories?</i>
+   </h3></b>
+   <p>
+     In Menu Builder mode, click on Import store categories button -> You will see a pop-up with our Default categories inside. Choose the categories you would like to add on your menu and then click Import. Make sure you understand our Import Children button. To have a closer look, click here.
+   </p>
+   </div>
+
+
+
+   <br/>
+   <div>
+   <h3><b>
+   <i>What does “100% responsive” mean?</i>
+   </h3></b>
+   <p>
+     It means your customers are now able to visit and shop around your site more easily. No matter what kind of device they are using, your store can be displayed perfectly. No more zoom in and out to have look at your products on mobiles. As a result, they will eager to visit your site that makes your sales boosted.
+   </p>
+   </div>
+
+
+
+   <br/>
+   <div>
+   <h3><b>
+   <i>How many languages can Ninja Menus support?</i>
+   </h3></b>
+   <p>
+     We supported all the languages listed in the drop-down list of All store view.
+   </p>
+   </div>
+
+
+
+   <br/>
+   <div>
+   <h3><b>
+   <i>Is it possible to have the menu sticky with this extension?</i>
+   </h3></b>
+   <p>
+     We've already added this function in our extension. Make your menu stick to the top by switching only 1 button in the backend. (We described in the user guide).
+   </p>
+   </div>
+
+
+<h2>Support FAQs</h2>
+   <br/>
+   <div>
+   <h3><b>
+    <i>Will I get free support and updates?</i>
+   </h3></b>
+   <p>
+     Absolutely. Magezon offers lifetime free updates, 90-day free support and free installation support.
+   </p>
+   </div>
+
+
+
+   <br/>
+   <div>
+   <h3><b>
+<i>Do I have to pay an extra fee for support after 90 days</i>
+   </h3></b>
+   <p>
+     After 90 days, you need to pay an extra fee for our support. However, we believe that 90 days is enough for you to install, run and use our extension properly on your website.
+   </p>
+   </div>
+
+
+
+   <br/>
+   <div>
+   <h3><b>
+   <i> How can I get your support?</i>
+   </h3></b>
+   <p>
+     If you have any questions or need any support, feel free to contact us through these ways below. We will get back to you within 24 hours since you submit your support request.
+   </p>
+   <li><p>Fill out Contact Us form and submit to us.</P></li>
+     <li><p>Email us at support@magezon.com.</p></li>
+     <li><p>Submit a ticket.</p></li>
+     <li><p>Contact us through Skype.</p></li>
+     <li><p>Contact us on live chat: support@magezon.com.</p></li>
+
+   </div>
+
+<h2>Payment FAQs</h2>
+
+   <br/>
+   <div>
+   <h3><b>
+   <i> How can I pay for Blue Form Builder?</i>
+   </h3></b>
+   <p>
+Currently, we only support product payment via Paypal. However, we will consider other payment methods and notify you of this.
+   </p>
+   </div>
+
+
+
+   <br/>
+   <div>
+   <h3><b>
+   <i> Can I get a refund after purchasing your product?</i>
+   </h3></b>
+   <p>
+If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out Contact Us, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.
+   </p>
+   </div>
+
+
+
+   <br/>
+   <div>
+   <h3><b>
+   <i>Is your product purchased with one-time payment </i>
+   </h3></b>
+   <p>
+     Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.
+   </p>
+   </div>
+
+
+
+   <br/>
+   <div>
+   <h3><b>
+   <i>What is the license policy in Magezon </i>
+   </h3></b>
+   <p>
+     According to our license policy, you are allowed to use a single extension license on only one Magento installation.
+   </p>
+   <p>
+     If you want to use our extension on another Magento installation, you have to purchase another license for this installation.
+   </p>
+   <p>
+     If you’re running multiple domains or websites under the same Magento installation, you just need to use one extension license.
+   </div>
+
+
+
+
+
+
+  </body>
+</html>

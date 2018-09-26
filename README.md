@@ -1,8 +1,6 @@
 <table>
   <tr>
-    
-    <td>
-      
+    <td width="50%">
   <h3 <span style="color: #ff5510"> 1. Drag & Drop Magento 2 mega menu Builder <span>  </h3>
   <p>You can drag & drop items freely in the navigation menu. Therefore, it's easy to create your menu of columns and rows depending on the requirement. Also, you can re-arrange your menu order at a glance thanks to this amazing feature.</p>
     </td>
@@ -11,4 +9,3 @@
     </td>
    </tr>
 </table>
-

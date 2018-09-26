@@ -1,12 +1,6 @@
 <html>
   <head>
 
-    <style>
-img {
-    max-width: 100%
-}
-    </style>
-
   </head>
   <body>
   <h1><a href="https://www.magezon.com/magento-2-mega-menu.html">Magento 2 Ninja Mega Menu Extension</a></h1>

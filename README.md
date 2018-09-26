@@ -1,15 +1,16 @@
 
   
-  <table>
+  <table border="1">
   
   <tr>
     <td>
       
   a
     </td>
+
     <td>
-<p>b
-</p></td>
+  b
+    </td>
    </tr>
 
 </table>

@@ -316,21 +316,11 @@
         <p>
             If you have any questions or need any support, feel free to contact us through these ways below. We will get back to you within 24 hours since you submit your support request.
         </p>
-        <li>
-            <p>Fill out Contact Us form and submit to us.</P>
-        </li>
-        <li>
-            <p>Email us at support@magezon.com.</p>
-        </li>
-        <li>
-            <p>Submit a ticket.</p>
-        </li>
-        <li>
-            <p>Contact us through Skype.</p>
-        </li>
-        <li>
-            <p>Contact us on live chat: support@magezon.com.</p>
-        </li>
+        <li>Fill out Contact Us form and submit to us.</li>
+        <li>Email us at support@magezon.com</li>
+        <li>Submit a ticket</li>
+        <li>Contact us through Skype.</li>
+        <li>Contact us on live chat: support@magezon.com.</li>
     </div>
     <h2>Payment FAQs</h2>
     <br/>

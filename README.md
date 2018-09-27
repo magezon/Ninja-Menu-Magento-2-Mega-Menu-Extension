@@ -179,6 +179,7 @@
     <li><a target="blank">User-friendly interface</a></li>
     <li><a target="blank">Free lifetime upgrades</a></li>
     <li><a target="blank">No core code change</a></li>
+    </ul>
     <br/>
     <br/>
     <br/>

@@ -26,10 +26,8 @@
                         </div>
                     </div>
                     <div class="compatibility">
-
                         <span class="compatibility"><b>Community Edition:</b> 2.0.x - 2.2.x
   <b>Enterprise Edition:</b> 2.0.x - 2.2.x</span>
-
                     </div>
                 </td>
     </tr>

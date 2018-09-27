@@ -15,9 +15,9 @@
 
                             <strong>Magento 2 Ninja Mega Menu Extension</strong> Magento 2 mega menu is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
                             <ul class="firebase-list">
-                                <li>Drag & drop Magento 2 Mega Menu Builder</li>
-                                <li>Support horizontal, vertical, accordion navigation menu</li>
-                                <li>Make your menu more attractive with 7 elements supported</li>
+                                <li><a href="https://www.magezon.com/magento-2-mega-menu.html#drag-drop">Drag & drop Magento 2 Mega Menu Builder</a></li>
+                                <li><a href="https://www.magezon.com/magento-2-mega-menu.html#menu-type">Support horizontal, vertical, accordion navigation menu</a></li>
+                                <li>Make your menu more hattractive with 7 elements supported</li>
                                 <li>Fully responsive UI design</li>
                                 <li>Fastest load time, cache supported</li>
                                 <li>Support multiple stores and languages</li>
@@ -161,8 +161,8 @@
 <br/>
 <h2>FEATURES FULL LIST</h2>
 <ul>
-    <li> <a target="blank"><a href="https://www.magezon.com/magento-2-mega-menu.html#drag-drop"></a>Drag & drop Magento 2 Menu Builder</a></li>
-    <li> <a target="blank"><a href="https://www.magezon.com/magento-2-mega-menu.html#menu-type"></a>Support horizontal, vertical, accordion navigation menu</a></li>
+    <li> <a target="blank">Drag & drop Magento 2 Menu Builder</a></li>
+    <li> <a target="blank">Support horizontal, vertical, accordion navigation menu</a></li>
     <li> <a target="blank">Support 7 elements: anchor, container, html, image, heading, divider, clear columns </a></li>
     <li> <a target="blank">100% fully responsive</a></li>
     <li> <a target="blank">Fastest load time, cache supported</a></li>

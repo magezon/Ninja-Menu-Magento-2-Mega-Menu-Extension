@@ -154,7 +154,6 @@
                 </td>
             </tr>
 </table>
-
 <br/>
 <h2>FEATURES FULL LIST</h2>
 <ul>
@@ -180,7 +179,6 @@
     <li><a target="blank">User-friendly interface</a></li>
     <li><a target="blank">Free lifetime upgrades</a></li>
     <li><a target="blank">No core code change</a></li>
-
     <br/>
     <br/>
     <br/>
@@ -191,7 +189,6 @@
             Do you have any questions about Magento 2 Ninja Menu? See the list below for our most frequently asked questions. If your questions are not listed here, please contact us.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -201,7 +198,6 @@
             To install this extension, please refer to Magento 2 Ninja Menu Installation Guide for detailed instructions. It will take you just a few minutes to install our extension.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -211,7 +207,6 @@
             Anyone who wants to improve sales by making the menu more attractive and easier-to-use. No coding or technical skill required.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -221,7 +216,6 @@
             What is more important to the sale than being able to manage your menu in your own style, making it special, unique and eye-catching but still user-friendly? Our Magento 2 Ninja mega menu is absolutely what you are looking for to improve your menu layout.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -231,7 +225,6 @@
             You can use these two reliable tools to check your website speed: <a href="https://gtmetrix.com/">GTmetrix</a> and <a href="https://developers.google.com/speed/pagespeed/insights/?hl=eng"> Google PageSpeed Insights. </a>
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -241,7 +234,6 @@
             Of course not. Being cache supported means no need to make an HTTP request to load assets like scripts, CSS, and images anymore. Also, your websites can serve content in next to no time, improve both front-end and back-end load times, and reduce stress on the website’s origin server.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -251,7 +243,6 @@
             With the help of Ninja Menus, adding image background for the submenu is now a piece of cake. Just by following some easy steps. Take a look at our User guide to get more details.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -261,7 +252,6 @@
             Just by choosing any language in “All store view" drop-down list. More details here.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -271,7 +261,6 @@
             In Menu Builder mode, click on Import store categories button -> You will see a pop-up with our Default categories inside. Choose the categories you would like to add on your menu and then click Import. Make sure you understand our Import Children button. To have a closer look, click here.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -281,7 +270,6 @@
             It means your customers are now able to visit and shop around your site more easily. No matter what kind of device they are using, your store can be displayed perfectly. No more zoom in and out to have look at your products on mobiles. As a result, they will eager to visit your site that makes your sales boosted.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -291,7 +279,6 @@
             We supported all the languages listed in the drop-down list of All store view.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -301,7 +288,6 @@
             We've already added this function in our extension. Make your menu stick to the top by switching only 1 button in the backend. (We described in the user guide).
         </p>
     </div>
-
     <h2>Support FAQs</h2>
     <br/>
     <div>
@@ -312,7 +298,6 @@
             Absolutely. Magezon offers lifetime free updates, 90-day free support and free installation support.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -322,7 +307,6 @@
             After 90 days, you need to pay an extra fee for our support. However, we believe that 90 days is enough for you to install, run and use our extension properly on your website.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -346,11 +330,8 @@
         <li>
             <p>Contact us on live chat: support@magezon.com.</p>
         </li>
-
     </div>
-
     <h2>Payment FAQs</h2>
-
     <br/>
     <div>
         <h3><b>
@@ -360,7 +341,6 @@
             Currently, we only support product payment via Paypal. However, we will consider other payment methods and notify you of this.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -370,17 +350,15 @@
             If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out Contact Us, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
    <i>Is your product purchased with one-time payment </i>
    </h3></b>
         <p>
-            Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.
+    Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.
         </p>
     </div>
-
     <br/>
     <div>
         <h3><b>
@@ -391,5 +369,4 @@
         </p>
         <p>
             If you want to use our extension on another Magento installation, you have to purchase another license for this installation.
-
     </div>

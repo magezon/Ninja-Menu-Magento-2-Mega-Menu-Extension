@@ -6,13 +6,12 @@
         <td width="30%" valign="top" style="
       border: none;
   ">
-            <br>
+          <br>
             <a href="https://www.magezon.com/magento-2-lazy-load.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/m/a/magento_2_mega_menu_ninja_menus_1.png" alt="Magento 2 Mega Menus | Ninja Menus" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
                 <td style="border:none;">
                     <br>
                     <div class="product attribute overview">
                         <div class="value">
-
                             <strong>Magento 2 Ninja Mega Menu Extension</strong> Magento 2 mega menu is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
                             <ul class="firebase-list">
                                 <li><a href="https://www.magezon.com/magento-2-mega-menu.html#drag-drop">Drag & drop Magento 2 Mega Menu Builder</a></li>

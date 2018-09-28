@@ -193,7 +193,7 @@
     <br/>
     <div>
         <h3><b>
-    <i>Installation Instructions</i>
+    Installation Instructions
     </b></h3>
         <p>
             To install this extension, please refer to Magento 2 Ninja Menu Installation Guide for detailed instructions. It will take you just a few minutes to install our extension.
@@ -202,7 +202,7 @@
     <br/>
     <div>
         <h3><b>
-  <i>Who should use Ninja Menu??</i>
+  Who should use Ninja Menu?
     </b></h3>
         <p>
             Anyone who wants to improve sales by making the menu more attractive and easier-to-use. No coding or technical skill required.
@@ -211,7 +211,7 @@
     <br/>
     <div>
         <h3><b>
-    <i>Why should I use Ninja Menus?</i>
+    Why should I use Ninja Menus?
     </b></h3>
         <p>
             What is more important to the sale than being able to manage your menu in your own style, making it special, unique and eye-catching but still user-friendly? Our Magento 2 Ninja mega menu is absolutely what you are looking for to improve your menu layout.
@@ -220,7 +220,7 @@
     <br/>
     <div>
         <h3><b>
-    <i>How can I check my website speed ?</i>
+    How can I check my website speed ?
     </b></h3>
         <p>
             You can use these two reliable tools to check your website speed: <a href="https://gtmetrix.com/">GTmetrix</a> and <a href="https://developers.google.com/speed/pagespeed/insights/?hl=eng"> Google PageSpeed Insights. </a>
@@ -229,7 +229,7 @@
     <br/>
     <div>
         <h3><b>
-  <i>Will Ninja Menus affect my website's speed?</i>
+  Will Ninja Menus affect my website's speed?
     </b></h3>
         <p>
             Of course not. Being cache supported means no need to make an HTTP request to load assets like scripts, CSS, and images anymore. Also, your websites can serve content in next to no time, improve both front-end and back-end load times, and reduce stress on the website’s origin server.
@@ -238,7 +238,7 @@
     <br/>
     <div>
         <h3><b>
-  <i>How to add the background to the submenu?</i>
+  How to add the background to the submenu?
     </b></h3>
         <p>
             With the help of Ninja Menus, adding image background for the submenu is now a piece of cake. Just by following some easy steps. Take a look at our User guide to get more details.
@@ -247,7 +247,7 @@
     <br/>
     <div>
         <h3><b>
-   <i>How to Configure menu item for Multiple Store view?</i>
+   How to Configure menu item for Multiple Store view?
    </h3></b>
         <p>
             Just by choosing any language in “All store view" drop-down list. More details here.
@@ -256,7 +256,7 @@
     <br/>
     <div>
         <h3><b>
-   <i>How to import Store Categories?</i>
+   How to import Store Categories?
    </h3></b>
         <p>
             In Menu Builder mode, click on Import store categories button -> You will see a pop-up with our Default categories inside. Choose the categories you would like to add on your menu and then click Import. Make sure you understand our Import Children button. To have a closer look, click here.
@@ -265,7 +265,7 @@
     <br/>
     <div>
         <h3><b>
-   <i>What does “100% responsive” mean?</i>
+   What does “100% responsive” mean?
    </h3></b>
         <p>
             It means your customers are now able to visit and shop around your site more easily. No matter what kind of device they are using, your store can be displayed perfectly. No more zoom in and out to have look at your products on mobiles. As a result, they will eager to visit your site that makes your sales boosted.
@@ -274,7 +274,7 @@
     <br/>
     <div>
         <h3><b>
-   <i>How many languages can Ninja Menus support?</i>
+   How many languages can Ninja Menus support?
    </h3></b>
         <p>
             We supported all the languages listed in the drop-down list of All store view.
@@ -283,7 +283,7 @@
     <br/>
     <div>
         <h3><b>
-   <i>Is it possible to have the menu sticky with this extension?</i>
+   Is it possible to have the menu sticky with this extension?
    </h3></b>
         <p>
             We've already added this function in our extension. Make your menu stick to the top by switching only 1 button in the backend. (We described in the user guide).
@@ -293,7 +293,7 @@
     <br/>
     <div>
         <h3><b>
-    <i>Will I get free support and updates?</i>
+    Will I get free support and updates?
    </h3></b>
         <p>
             Absolutely. Magezon offers lifetime free updates, 90-day free support and free installation support.
@@ -302,7 +302,7 @@
     <br/>
     <div>
         <h3><b>
-<i>Do I have to pay an extra fee for support after 90 days</i>
+Do I have to pay an extra fee for support after 90 days
    </h3></b>
         <p>
             After 90 days, you need to pay an extra fee for our support. However, we believe that 90 days is enough for you to install, run and use our extension properly on your website.
@@ -311,7 +311,7 @@
     <br/>
     <div>
         <h3><b>
-   <i> How can I get your support?</i>
+   How can I get your support?
    </h3></b>
         <p>
             If you have any questions or need any support, feel free to contact us through these ways below. We will get back to you within 24 hours since you submit your support request.
@@ -326,7 +326,7 @@
     <br/>
     <div>
         <h3><b>
-   <i> How can I pay for Blue Form Builder?</i>
+   How can I pay for Blue Form Builder?
    </h3></b>
         <p>
             Currently, we only support product payment via Paypal. However, we will consider other payment methods and notify you of this.
@@ -335,7 +335,7 @@
     <br/>
     <div>
         <h3><b>
-   <i> Can I get a refund after purchasing your product?</i>
+   Can I get a refund after purchasing your product?
    </h3></b>
         <p>
             If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out Contact Us, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.
@@ -344,7 +344,7 @@
     <br/>
     <div>
         <h3><b>
-   <i>Is your product purchased with one-time payment </i>
+   Is your product purchased with one-time payment
    </h3></b>
         <p>
     Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.
@@ -353,7 +353,7 @@
     <br/>
     <div>
         <h3><b>
-   <i>What is the license policy in Magezon </i>
+   What is the license policy in Magezon
    </h3></b>
         <p>
             According to our license policy, you are allowed to use a single extension license on only one Magento installation.

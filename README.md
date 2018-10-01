@@ -46,7 +46,7 @@
 </ul>
 <br/>
 <h2>Feature Highlights </h2>
-<table border="">
+<table>
     <tbody>
         <tr>
             <td width="50%">

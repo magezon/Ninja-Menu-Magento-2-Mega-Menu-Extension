@@ -316,11 +316,11 @@ Do I have to pay an extra fee for support after 90 days
         <p>
             If you have any questions or need any support, feel free to contact us through these ways below. We will get back to you within 24 hours since you submit your support request.
         </p>
-        <li>Fill out Contact Us form and submit to us.</li>
-        <li>Email us at support@magezon.com</li>
-        <li>Submit a ticket</li>
-        <li>Contact us through Skype.</li>
-        <li>Contact us on live chat: support@magezon.com.</li>
+        <li>Submit <a href="https://www.magezon.com/contact">contact form</a>.</li>
+<li>Email us at <a href="Email us at support@magezon.com.">support@magezon.com.</a></li>
+<li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a></li>
+<li>Contact us through Skype: support@magezon.com.</li>
+<li>Contact us via live chat on our website: https://www.magezon.com/magento-2-form-builder.html.</li>
     </div>
     <h2>Payment FAQs</h2>
     <br/>
@@ -344,7 +344,7 @@ Do I have to pay an extra fee for support after 90 days
     <br/>
     <div>
         <h3><b>
-   Is your product purchased with one-time payment
+   Is your product purchased with one-time payment?
    </h3></b>
         <p>
     Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.
@@ -361,3 +361,15 @@ Do I have to pay an extra fee for support after 90 days
         <p>
             If you want to use our extension on another Magento installation, you have to purchase another license for this installation.
     </div>
+<h2>Magezon Extensions</h2>
+<div>
+ <ul class="firebase-list">
+ 	<li><a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html">Magento 2 Ajax Cart</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-lazy-load.html/">Magento 2 Lazy Load</a></li>
+    <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/">Magento 2 Tabs</a></li>
+ 	<li><a href="https://www.magezon.com/product-labels.html">Magento 2 Product Labels</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-customer-attachments.html">Magento 2 Customer Attachments</a></li>
+  <li><a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix</a></li>
+</ul>

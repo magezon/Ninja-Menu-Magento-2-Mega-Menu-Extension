@@ -3,12 +3,11 @@
 <br/>
 <table>
     <tr>
-        <td width="30%" valign="top" style="
-      border: none;
-  ">
+        <td width="30%" valign="top">
           <br>
             <a href="https://www.magezon.com/magento-2-mega-menu.html"><img src="https://www.magezon.com/pub/media/catalog/product/m/a/magento_2_mega_menu_ninja_menus_1.png" alt="Magento 2 Mega Menu | Ninja Menus" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
-                <td style="border:none;">
+        </td>  
+		<td style="border:none;">
                     <br>
                     <div class="product attribute overview">
                         <div class="value">

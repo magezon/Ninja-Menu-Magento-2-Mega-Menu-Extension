@@ -65,7 +65,6 @@
           </a>  </td>
         </tr>
         <tr>
-           
             <td>
                 <div class="col-md-6">
                    <p><img title="Magento 2 Mega Menu | Drag &amp; drop" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_menu___Drag_Drop.gif" alt="Magento 2 Mega Menu | Drag &amp; drop"></p></div>
@@ -78,7 +77,6 @@
 			
         </tr>
         <tr>
-           
             <td>
                <div class="col-md-6">
 <h3><a href="https://www.magezon.com/magento-2-mega-menu-different-menu-types">Display menu in 3 types</a></h3>
@@ -93,7 +91,6 @@
             </td>
         </tr>
         <tr>
-           
             <td>
                <div class="col-md-6"><a title="Supported elements" href="https://www.magezon.com/magento-2-mega-menu-supported-elements">
 <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Support_7_elements.png" alt="Magento 2 mega menu | 7 elments supported "></p>
@@ -108,7 +105,6 @@
             </td>
         </tr>
         <tr>
-          
             <td>
                 <div class="col-md-6">
 <h3>Fully Responsive UI design</h3>
@@ -122,7 +118,6 @@
             </td>
         </tr>
         <tr>
-           
             <td>
                 <div class="col-md-6">
 <p><img title="Magento 2 Mega Menu | Cache supported" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Cache_supported.png" alt="Magento 2 Mega Menu | Cache supported" width="1280" height="682"></p>
@@ -137,7 +132,6 @@
             </td>
         </tr>
         <tr>
-            
             <td>
               <div class="col-md-6">
 <h3>Lazy Load technique</h3>
@@ -152,7 +146,6 @@
             </td>
         </tr>
         <tr>
-           
             <td>
                 <div class="col-md-6">
 <p><img title="Magento 2 Mega Menu | Multiple stores " src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_multiple_storeview.png" alt="Magento 2 Mega Menu | Multiple stores " width="1280" height="682"></p>

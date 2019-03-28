@@ -53,7 +53,6 @@
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
-	 
             <td width="50%">
                 <div class="col-md-6">
                     <h3><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Create unlimited levels</a></h3>
@@ -69,7 +68,8 @@
                 <div class="col-md-6">
                    <p><img title="Magento 2 Mega Menu | Drag &amp; drop" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_menu___Drag_Drop.gif" alt="Magento 2 Mega Menu | Drag &amp; drop"></p></div>
             </td> 
-			<td width="50%">
+			<td width="50%"></tr>
+			
 		
                 <div class="col-md-6">
                     <h3 <span style="color: #ff5510"> Drag & Drop Magento 2 Mega Menu <span>  </h3>
@@ -159,7 +159,7 @@
 </div>
             </td>
 			</tr>
-            <tr>
+        <tr>
                 <td>
                    <div class="col-md-6">
 <h3>Customize the menu design with ease</h3>
@@ -172,7 +172,7 @@
 </div>
                 </td>
             </tr>
-			 <tr>
+	    <tr>
 				<td width="50%">
                  <div class="col-md-6">
 <h3>Detailed Documentation &amp; Video Tutorials</h3>

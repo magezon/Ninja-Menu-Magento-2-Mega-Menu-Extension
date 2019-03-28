@@ -171,11 +171,12 @@
             </tr>
 	    <tr>
 				<td width="50%">
-				<td>
+				
                   <div class="col-md-6">
-<p><img title="Magento 2 Mega Menu | Documentation" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-Mega-menu-_-documentation.png" alt="Magento 2 Mega Menu | Documentation" width="800" height="375">&nbsp;</p>
+<p><img title="Magento 2 Mega Menu | Documentation" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-Mega-menu-_-documentation.png" alt="Magento 2 Mega Menu | Documentation">&nbsp;</p>
 </div>
-                </td>
+</td>
+                <td>
                  <div class="col-md-6">
 <h3>Detailed Documentation &amp; Video Tutorials</h3>
 <p>We provide&nbsp;<a href="https://www.youtube.com/channel/UC1XkOcmZeAq-b2VNqM6o4rw?view_as=subscriber" target="_blank" rel="noopener">Video Tutorials</a>&nbsp;with visual guidance for building your menus. Besides, you can use <a href="https://magezon.com/pub/media/productfile/ninjamenus-v1.0.0-user_guides.pdf" target="_blank" rel="noopener">User Guide</a> for every tiny detail. If you still confuse with our instruction, contact us via mail or submit us a ticket.&nbsp;</p>

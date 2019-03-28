@@ -301,7 +301,6 @@
             Anyone who wants to improve sales by making the menu more attractive and easier-to-use. No coding or technical skill required.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
     Why should I use Ninja Menus?
@@ -411,7 +410,7 @@ Do I have to pay an extra fee for support after 90 days
 <li>Email us at <a href="Email us at support@magezon.com.">support@magezon.com.</a></li>
 <li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a></li>
 <li>Contact us through Skype: support@magezon.com.</li>
-<li>Contact us via live chat on our website: https://www.magezon.com/magento-2-form-builder.html.</li>
+<li>Contact us via live chat on our website: https://www.magezon.com/magento-2-mega-menu.html.</li>
     </div>
     <br/>
     <h2>Payment FAQs</h2>

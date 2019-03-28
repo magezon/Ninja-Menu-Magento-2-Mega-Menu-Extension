@@ -13,7 +13,7 @@
                     <div class="product attribute overview">
                         <div class="value">
                             <strong>Magento 2 Mega Menu Extension</strong> is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
-                            <br><ul class="firebase-list">
+                            <br><br><ul class="firebase-list">
 <li><a class="create-unlimited" href="#unlimited-level">Create unlimited levels</a></li>
 <li><a class="drag-drop" href="#drag-drop">Drag &amp; drop Magento 2 Mega Menu Builder</a></li>
 <li><a class="support-horizontal" href="#menu-type">Support horizontal, vertical, accordion navigation menu</a></li>

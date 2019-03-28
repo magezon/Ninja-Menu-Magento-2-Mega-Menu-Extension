@@ -12,8 +12,8 @@
                     <br>
                     <div class="product attribute overview">
                         <div class="value">
-                            <strong>Magento 2 Mega Menu Extension</strong> is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
-                            <br><br><ul class="firebase-list">
+                           <p> <strong>Magento 2 Mega Menu Extension</strong> is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
+                            </p><br><ul class="firebase-list">
 <li><a class="create-unlimited" href="#unlimited-level">Create unlimited levels</a></li>
 <li><a class="drag-drop" href="#drag-drop">Drag &amp; drop Magento 2 Mega Menu Builder</a></li>
 <li><a class="support-horizontal" href="#menu-type">Support horizontal, vertical, accordion navigation menu</a></li>
@@ -53,6 +53,17 @@
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
+	 <tr>
+            <td width="50%">
+                <div class="col-md-6">
+                    <h3><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Create unlimited levels</a></h3>
+<p>Our Magento 2 Ninja Menus Extension allows you to generate an unlimited multi-level navigation menu. One category can be dragged above, below or inside another category. You can create all the levels at the same time. Also, you can control their positions in the real menu on the storefront.</p></div>
+            <div class="btn3-inline"><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Get More Info</a></div>
+			</td>
+            <td>
+<p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-mega-menu-_-Multi-level-.png" alt="Magento 2 mega menu | Multi level " width="1200" height="600"></p>
+            </td>
+        </tr>
         <tr>
             <td width="50%">
                 <div class="col-md-6">

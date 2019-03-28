@@ -13,7 +13,7 @@
                     <div class="product attribute overview">
                         <div class="value">
                            <p> <strong>Magento 2 Mega Menu Extension</strong> is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
-                            </p><br><ul class="firebase-list">
+                            </p><ul class="firebase-list">
 <li><a class="create-unlimited" href="#unlimited-level">Create unlimited levels</a></li>
 <li><a class="drag-drop" href="#drag-drop">Drag &amp; drop Magento 2 Mega Menu Builder</a></li>
 <li><a class="support-horizontal" href="#menu-type">Support horizontal, vertical, accordion navigation menu</a></li>
@@ -53,7 +53,7 @@
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
-	 <tr>
+	 
             <td width="50%">
                 <div class="col-md-6">
                     <h3><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Create unlimited levels</a></h3>
@@ -70,6 +70,7 @@
                    <p><img title="Magento 2 Mega Menu | Drag &amp; drop" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_menu___Drag_Drop.gif" alt="Magento 2 Mega Menu | Drag &amp; drop"></p></div>
             </td> 
 			<td width="50%">
+		
                 <div class="col-md-6">
                     <h3 <span style="color: #ff5510"> Drag & Drop Magento 2 Mega Menu <span>  </h3>
                     <p>With the help of our Magento 2 mega menu, you can drag &amp; drop items freely in the navigation menu. Therefore, it's easy to create your menu of columns and rows depending on the requirement. Also, you can re-arrange your menu order at a glance thanks to this amazing feature.&nbsp;</p></div>

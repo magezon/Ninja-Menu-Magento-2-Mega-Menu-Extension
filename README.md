@@ -52,7 +52,7 @@
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
-		<tr>
+		<tr id="unlimited-level">
             <td width="50%">
                 <div class="col-md-6">
                     <h3><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Create unlimited levels</a></h3>
@@ -63,7 +63,7 @@
 <p> <img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-mega-menu-_-Multi-level-.png" alt="Magento 2 mega menu | Multi level "></p>
           </a>  </td>
         </tr>
-        <tr>
+        <tr id="drag-drop">
             <td>
                 <div class="col-md-6">
                    <p><img title="Magento 2 Mega Menu | Drag &amp; drop" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_menu___Drag_Drop.gif" alt="Magento 2 Mega Menu | Drag &amp; drop"></p></div>
@@ -75,7 +75,7 @@
 				</div>
 			</td>
         </tr>
-        <tr>
+        <tr id="menu-type">
             <td>
                <div class="col-md-6">
 <h3><a href="https://www.magezon.com/magento-2-mega-menu-different-menu-types">Display menu in 3 types</a></h3>
@@ -89,7 +89,7 @@
 </a></div>
             </td>
         </tr>
-        <tr>
+        <tr id="elements">
             <td>
                <div class="col-md-6"><a title="Supported elements" href="https://www.magezon.com/magento-2-mega-menu-supported-elements">
 <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Support_7_elements.png" alt="Magento 2 mega menu | 7 elments supported "></p>
@@ -103,7 +103,7 @@
 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="responsive">
             <td>
                 <div class="col-md-6">
 <h3>Fully Responsive UI design</h3>
@@ -116,7 +116,7 @@
 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="cache">
             <td>
                 <div class="col-md-6">
 <p><img title="Magento 2 Mega Menu | Cache supported" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Cache_supported.png" alt="Magento 2 Mega Menu | Cache supported"></p>
@@ -129,7 +129,7 @@
 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="lazyload">
             <td>
               <div class="col-md-6">
 <h3>Lazy Load technique</h3>
@@ -143,7 +143,7 @@
 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="multiple-stores">
             <td>
                 <div class="col-md-6">
 <p><img title="Magento 2 Mega Menu | Multiple stores " src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_multiple_storeview.png" alt="Magento 2 Mega Menu | Multiple stores "></p>
@@ -156,7 +156,7 @@
 </div>
             </td>
 			</tr>
-        <tr>
+        <tr id="customize">
                 <td>
                    <div class="col-md-6">
 <h3>Customize the menu design with ease</h3>
@@ -169,9 +169,8 @@
 </div>
                 </td>
             </tr>
-	    <tr>
+	    <tr id="guide">
 				<td width="50%">
-				
                   <div class="col-md-6">
 <p><img title="Magento 2 Mega Menu | Documentation" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-Mega-menu-_-documentation.png" alt="Magento 2 Mega Menu | Documentation">&nbsp;</p>
 </div>

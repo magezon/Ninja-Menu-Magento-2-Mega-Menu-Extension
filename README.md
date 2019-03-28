@@ -52,6 +52,7 @@
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
+	<tr>
             <td width="50%">
                 <div class="col-md-6">
                     <h3><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Create unlimited levels</a></h3>

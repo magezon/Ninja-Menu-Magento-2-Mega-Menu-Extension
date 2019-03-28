@@ -60,9 +60,9 @@
 <p>Our Magento 2 Ninja Menus Extension allows you to generate an unlimited multi-level navigation menu. One category can be dragged above, below or inside another category. You can create all the levels at the same time. Also, you can control their positions in the real menu on the storefront.</p></div>
             <div class="btn3-inline"><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Get More Info</a></div>
 			</td>
-            <td>
-<p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-mega-menu-_-Multi-level-.png" alt="Magento 2 mega menu | Multi level "></p>
-            </td>
+            <td><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">
+<p> <img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-mega-menu-_-Multi-level-.png" alt="Magento 2 mega menu | Multi level "></p>
+          </a>  </td>
         </tr>
         <tr>
             <td width="50%">

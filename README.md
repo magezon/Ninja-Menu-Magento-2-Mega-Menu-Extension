@@ -281,13 +281,10 @@
 	</tr>	
 </table>
     <br/>
-    <h2>Frequently Asked Questions</h2>
-    <div>
-        <p>
-            Do you have any questions about Magento 2 Ninja Menu? See the list below for our most frequently asked questions. If your questions are not listed here, please contact us.
-        </p>
-    </div>
-    <br/>
+   <h2>Frequently Asked Questions</h2>
+<p>Do you have any questions about Ninja Menus? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact">contact us.</a></p>
+<br/>
+<h2>Feature FAQs</h2
     <div>
         <h3><b>
     Installation Instructions
@@ -296,7 +293,6 @@
             To install this extension, please refer to Magento 2 Ninja Menu Installation Guide for detailed instructions. It will take you just a few minutes to install our extension.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
   Who should use Ninja Menu?
@@ -314,7 +310,6 @@
             What is more important to the sale than being able to manage your menu in your own style, making it special, unique and eye-catching but still user-friendly? Our Magento 2 Ninja mega menu is absolutely what you are looking for to improve your menu layout.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
     How can I check my website speed ?
@@ -323,7 +318,6 @@
             You can use these two reliable tools to check your website speed: <a href="https://gtmetrix.com/">GTmetrix</a> and <a href="https://developers.google.com/speed/pagespeed/insights/?hl=eng"> Google PageSpeed Insights. </a>
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
   Will Ninja Menus affect my website's speed?
@@ -332,7 +326,6 @@
             Of course not. Being cache supported means no need to make an HTTP request to load assets like scripts, CSS, and images anymore. Also, your websites can serve content in next to no time, improve both front-end and back-end load times, and reduce stress on the website’s origin server.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
   How to add the background to the submenu?
@@ -341,7 +334,6 @@
             With the help of Ninja Menus, adding image background for the submenu is now a piece of cake. Just by following some easy steps. Take a look at our User guide to get more details.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    How to Configure menu item for Multiple Store view?
@@ -350,7 +342,6 @@
             Just by choosing any language in “All store view" drop-down list. More details here.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    How to import Store Categories?
@@ -359,7 +350,6 @@
             In Menu Builder mode, click on Import store categories button -> You will see a pop-up with our Default categories inside. Choose the categories you would like to add on your menu and then click Import. Make sure you understand our Import Children button. To have a closer look, click here.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    What does “100% responsive” mean?
@@ -368,7 +358,6 @@
             It means your customers are now able to visit and shop around your site more easily. No matter what kind of device they are using, your store can be displayed perfectly. No more zoom in and out to have look at your products on mobiles. As a result, they will eager to visit your site that makes your sales boosted.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    How many languages can Ninja Menus support?
@@ -377,7 +366,6 @@
             We supported all the languages listed in the drop-down list of All store view.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    Is it possible to have the menu sticky with this extension?
@@ -386,8 +374,16 @@
             We've already added this function in our extension. Make your menu stick to the top by switching only 1 button in the backend. (We described in the user guide).
         </p>
     </div>
+	<br/>
     <h2>Support FAQs</h2>
-    <br/>
+    <div>
+        <h3><a id="user-content-----how-can-i-get-installation-support---" class="anchor" aria-hidden="true" href="#----how-can-i-get-installation-support---"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><b>
+    How can I get installation support?
+   </b></h3>
+        <p>
+           When you are buying our product, you can see the information of it in add to cart area. In the 'Additional Services' block, tick on 'Free Installation Support' before adding to cart. Just <a href="https://magezon.ticksy.com/" rel="nofollow">submit a ticket here</a> and we're ready for help within 24 hours. This service is totally free, all the thing you have to do is providing us with those below information:
+        </p>
+    </div>
     <div>
         <h3><b>
     Will I get free support and updates?
@@ -396,7 +392,6 @@
             Absolutely. Magezon offers lifetime free updates, 90-day free support and free installation support.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
 Do I have to pay an extra fee for support after 90 days
@@ -405,7 +400,6 @@ Do I have to pay an extra fee for support after 90 days
             After 90 days, you need to pay an extra fee for our support. However, we believe that 90 days is enough for you to install, run and use our extension properly on your website.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    How can I get your support?
@@ -419,8 +413,8 @@ Do I have to pay an extra fee for support after 90 days
 <li>Contact us through Skype: support@magezon.com.</li>
 <li>Contact us via live chat on our website: https://www.magezon.com/magento-2-form-builder.html.</li>
     </div>
-    <h2>Payment FAQs</h2>
     <br/>
+    <h2>Payment FAQs</h2>
     <div>
         <h3><b>
    How can I pay for Blue Form Builder?
@@ -429,7 +423,6 @@ Do I have to pay an extra fee for support after 90 days
             Currently, we only support product payment via Paypal. However, we will consider other payment methods and notify you of this.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    Can I get a refund after purchasing your product?
@@ -438,7 +431,6 @@ Do I have to pay an extra fee for support after 90 days
             If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out Contact Us, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    Is your product purchased with one-time payment?
@@ -447,7 +439,6 @@ Do I have to pay an extra fee for support after 90 days
     Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    What is the license policy in Magezon
@@ -458,15 +449,22 @@ Do I have to pay an extra fee for support after 90 days
         <p>
             If you want to use our extension on another Magento installation, you have to purchase another license for this installation.
     </div>
+	<br>
 <h2>Magezon Extensions</h2>
 <div>
- <ul class="firebase-list">
- 	<li><a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a></li>
- 	<li><a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand</a></li>
- 	<li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html">Magento 2 Ajax Cart</a></li>
- 	<li><a href="https://www.magezon.com/magento-2-lazy-load.html/">Magento 2 Lazy Load</a></li>
-    <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/">Magento 2 Tabs</a></li>
- 	<li><a href="https://www.magezon.com/product-labels.html">Magento 2 Product Labels</a></li>
- 	<li><a href="https://www.magezon.com/magento-2-customer-attachments.html">Magento 2 Customer Attachments</a></li>
-  <li><a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix</a></li>
+ <ul>
+     <li><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html" rel="nofollow">Magento 2 Page Builder</a></li>
+    <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html" rel="nofollow">Magento 2 Single Product Page Builder</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-form-builder.html" rel="nofollow">Magento 2 Form Builder</a></li>
+    <li><a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-shop-by-brand.html" rel="nofollow">Magento 2 Shop By Brand</a></li>
+ 	<li><a href="https://www.magezon.com/product-labels.html" rel="nofollow">Magento 2 Product Labels</a></li>
+     <li><a href="https://www.magezon.com/magento-2-quick-order.html" rel="nofollow">Magento 2 Quick Order</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html" rel="nofollow">Magento 2 Ajax Cart</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-lazy-load.html/" rel="nofollow">Magento 2 Lazy Load</a></li>
+    <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/" rel="nofollow">Magento 2 Tabs</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-customer-attachments.html" rel="nofollow">Magento 2 Customer Attachments</a></li>
+  <li><a href="https://www.magezon.com/configurable-product-matrix.html" rel="nofollow">Magento 2 Configurable Product Matrix</a></li>
 </ul>
+</div>
+

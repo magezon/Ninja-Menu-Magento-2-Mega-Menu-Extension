@@ -61,7 +61,7 @@
             <div class="btn3-inline"><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Get More Info</a></div>
 			</td>
             <td>
-<p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-mega-menu-_-Multi-level-.png" alt="Magento 2 mega menu | Multi level " width="1200" height="600"></p>
+<p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-mega-menu-_-Multi-level-.png" alt="Magento 2 mega menu | Multi level "></p>
             </td>
         </tr>
         <tr>

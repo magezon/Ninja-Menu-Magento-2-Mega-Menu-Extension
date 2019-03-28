@@ -173,6 +173,7 @@
                 </td>
             </tr>
 	    <tr>
+		
 				<td width="50%">
                  <div class="col-md-6">
 <h3>Detailed Documentation &amp; Video Tutorials</h3>
@@ -186,6 +187,7 @@
 </div>
                 </td>
             </tr>
+			</tbody>
 </table>
 <br/>
 <h2>FEATURES FULL LIST</h2>

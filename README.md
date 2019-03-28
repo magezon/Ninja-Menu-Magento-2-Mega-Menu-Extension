@@ -49,101 +49,6 @@
     <li><strong>Improve customers’ experience greatly</strong>:<strong> Being 100% responsive</strong> means no need to worry about which platform your website is running on. For this reason, your customers can shop at any time, any place by any device they get. In addition, the user-friendly interface of Magento 2 mega menu makes it easier than ever to find their items.</li>
 </ul>
 <br/>
-<h2>Features Full List</h2>
-<table>
-    <tr>
-        <td width="40%">
-		    <div class="col-md-6">
-<h3><span id="docs-internal-guid-db861003-7fff-4cd8-bbb6-5125f743fa77" style="color: #ff6600;">The Ultimate Magento 2 Menu</span></h3>
-<ul>
-<li>Fully Responsive</li>
-<li>Mega Submenus</li>
-<li>Drop-down, drop line, fly-out, accordion menu types</li>
-<li>Compatible with mobile devices</li>
-<li>Also display menu subtitle</li>
-</ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Easy to use</span></h3>
-<ul>
-<li>No coding skills required</li>
-<li>Drag &amp; drop Magento 2 Menu Builder</li>
-<li>100% responsive</li>
-<li>Fastest load time, cache supported</li>
-<li>Support multiple stores and languages</li>
-<li>Works out of the box</li>
-<li>Multiple stores views</li>
-<li>Sticky menu makes your menu floating despite scrolling</li>
-<li>Import store categories button helps save time</li>
-</ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Boost sales</span></h3>
-<ul>
-<li>Show time countdown in the popup</li>
-<li>Display Related Products, Cross-sells or Up-sells right in the popup</li>
-<li>Product page support</li>
-</ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Fully Configurable</span></h3>
-<ul>
-<li>Links categories, CMS pages, custom link</li>
-<li>Support widget</li>
-<li>Instant import store categories</li>
-<li>Enhanced font awesome icons</li>
-<li>Built-in LESS stylesheets</li>
-<li>Multiple menus can be configured independently</li>
-<li>Inline CSS for developers</li>
-</ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Advanced Submenu Layouts</span></h3>
-<ul>
-<li>Individually configure the width of each column, or set a default for each submenu</li>
-<li>Set background images for each submenu</li>
-<li>Design menu in 3 conditions: Normal, hover and active</li>
-<li>Check out border, padding by Css Box</li>
-<li>Set alignment, Border Style, Font Size(px)</li>
-</ul>
-</div>
-		</td>
-		 <td width="40%">
-		    <div class="col-md-6">
-<h3><span style="color: #ff6600;"><span id="docs-internal-guid-fc0792a1-7fff-6d5b-9431-36aa8778a1d4">Responsive &amp; Mobile</span></span></h3>
-<ul>
-<li>Freely adjust mobile breakpoint</li>
-<li>Responsive layout</li>
-<li>Configurable Breakpoint</li>
-<li>Hide items for different screen sizes</li>
-</ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Easy to Customize</span></h3>
-<ul>
-<li>Customize individual menu items' styles right from the Menu Item Settings</li>
-<li>CSS for developers</li>
-<li>Support horizontal, vertical, accordion navigation menu</li>
-<li>Support 7 elements: anchor, container, html, image, heading, divider, clear columns</li>
-<li>Create unlimited levels</li>
-<li>Skin builder</li>
-<li>Support multi-column</li>
-<li>CSS Classes for developers</li>
-<li>Insert links of many types (Custom, Categories, CMS Page Link)</li>
-<li>Support Icon and Caret displayed when normal or hover</li>
-<li>Support targets to open attached links</li>
-<li>Class Attribute for developers</li>
-<li>Put the icon where you want</li>
-<li>Insert image to the menu by url or from device</li>
-<li>Support stack and mega submenu</li>
-<li>Support all sub-menu positions including Left, Right - Vertical - Full Height</li>
-<li>Adjust the widge of the submenu freely</li>
-<li>Insert photo, Adjust size, color, position, style of the submenu</li>
-</ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Additional Elements</span></h3>
-<ul>
-<li>Anchor</li>
-<li>Container</li>
-<li>Image</li>
-<li>HTML</li>
-<li>Heading</li>
-<li>Clear columns</li>
-<li>Divider</li>
-</ul>
-</div>
-		</td>
-	</tr>	
-<br/>
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
@@ -280,34 +185,101 @@
 	</tbody>
 </table>
 <br/>
-<h2>FEATURES FULL LIST</h2>
+<h2>Feature Full List</h2>
+<table>
+    <tr>
+        <td width="40%">
+		    <div class="col-md-6">
+<h3><span id="docs-internal-guid-db861003-7fff-4cd8-bbb6-5125f743fa77" style="color: #ff6600;">The Ultimate Magento 2 Menu</span></h3>
 <ul>
-    <li> <a target="blank">Drag & drop Magento 2 Menu Builder</a></li>
-    <li> <a target="blank">Support horizontal, vertical, accordion navigation menu</a></li>
-    <li> <a target="blank">Support 7 elements: anchor, container, html, image, heading, divider, clear columns </a></li>
-    <li> <a target="blank">100% fully responsive</a></li>
-    <li> <a target="blank">Fastest load time, cache supported</a></li>
-    <li> <a target="blank">Support multiple stores and languages</a></li>
-    <li> <a target="blank">Create unlimited levels</a></li>
-    <li> <a target="blank">Skin builder</a></li>
-    <li> <a target="blank">Support multi-column</a></li>
-    <li><a target="blank">Links categories, CMS pages, custom link</a></li>
-    <li><a target="blank">Support widget</a></li>
-    <li><a target="blank">Instant import store categories</a></li>
-    <li><a target="blank">Enhanced font awesome icons</a></li>
-    <li><a target="blank">Create unlimited menus</a></li>
-    <li><a target="blank">Built-in LESS stylesheets</a></li>
-    <li><a target="blank">90-day free support</a></li>
-    <li><a target="blank">30-day money back</a></li>
-    <li><a target="blank">100% open source</a></li>
-    <li><a target="blank">Easy to install and configure</a></li>
-    <li><a target="blank">User-friendly interface</a></li>
-    <li><a target="blank">Free lifetime upgrades</a></li>
-    <li><a target="blank">No core code change</a></li>
-    </ul>
-    <br/>
-    <br/>
-    <br/>
+<li>Fully Responsive</li>
+<li>Mega Submenus</li>
+<li>Drop-down, drop line, fly-out, accordion menu types</li>
+<li>Compatible with mobile devices</li>
+<li>Also display menu subtitle</li>
+</ul>
+<h3 dir="ltr"><span style="color: #ff6600;">Easy to use</span></h3>
+<ul>
+<li>No coding skills required</li>
+<li>Drag &amp; drop Magento 2 Menu Builder</li>
+<li>100% responsive</li>
+<li>Fastest load time, cache supported</li>
+<li>Support multiple stores and languages</li>
+<li>Works out of the box</li>
+<li>Multiple stores views</li>
+<li>Sticky menu makes your menu floating despite scrolling</li>
+<li>Import store categories button helps save time</li>
+</ul>
+<h3 dir="ltr"><span style="color: #ff6600;">Boost sales</span></h3>
+<ul>
+<li>Show time countdown in the popup</li>
+<li>Display Related Products, Cross-sells or Up-sells right in the popup</li>
+<li>Product page support</li>
+</ul>
+<h3 dir="ltr"><span style="color: #ff6600;">Fully Configurable</span></h3>
+<ul>
+<li>Links categories, CMS pages, custom link</li>
+<li>Support widget</li>
+<li>Instant import store categories</li>
+<li>Enhanced font awesome icons</li>
+<li>Built-in LESS stylesheets</li>
+<li>Multiple menus can be configured independently</li>
+<li>Inline CSS for developers</li>
+</ul>
+<h3 dir="ltr"><span style="color: #ff6600;">Advanced Submenu Layouts</span></h3>
+<ul>
+<li>Individually configure the width of each column, or set a default for each submenu</li>
+<li>Set background images for each submenu</li>
+<li>Design menu in 3 conditions: Normal, hover and active</li>
+<li>Check out border, padding by Css Box</li>
+<li>Set alignment, Border Style, Font Size(px)</li>
+</ul>
+</div>
+		</td>
+		 <td width="40%">
+		    <div class="col-md-6">
+<h3><span style="color: #ff6600;"><span id="docs-internal-guid-fc0792a1-7fff-6d5b-9431-36aa8778a1d4">Responsive &amp; Mobile</span></span></h3>
+<ul>
+<li>Freely adjust mobile breakpoint</li>
+<li>Responsive layout</li>
+<li>Configurable Breakpoint</li>
+<li>Hide items for different screen sizes</li>
+</ul>
+<h3 dir="ltr"><span style="color: #ff6600;">Easy to Customize</span></h3>
+<ul>
+<li>Customize individual menu items' styles right from the Menu Item Settings</li>
+<li>CSS for developers</li>
+<li>Support horizontal, vertical, accordion navigation menu</li>
+<li>Support 7 elements: anchor, container, html, image, heading, divider, clear columns</li>
+<li>Create unlimited levels</li>
+<li>Skin builder</li>
+<li>Support multi-column</li>
+<li>CSS Classes for developers</li>
+<li>Insert links of many types (Custom, Categories, CMS Page Link)</li>
+<li>Support Icon and Caret displayed when normal or hover</li>
+<li>Support targets to open attached links</li>
+<li>Class Attribute for developers</li>
+<li>Put the icon where you want</li>
+<li>Insert image to the menu by url or from device</li>
+<li>Support stack and mega submenu</li>
+<li>Support all sub-menu positions including Left, Right - Vertical - Full Height</li>
+<li>Adjust the widge of the submenu freely</li>
+<li>Insert photo, Adjust size, color, position, style of the submenu</li>
+</ul>
+<h3 dir="ltr"><span style="color: #ff6600;">Additional Elements</span></h3>
+<ul>
+<li>Anchor</li>
+<li>Container</li>
+<li>Image</li>
+<li>HTML</li>
+<li>Heading</li>
+<li>Clear columns</li>
+<li>Divider</li>
+</ul>
+</div>
+		</td>
+	</tr>	
+</table>
     <br/>
     <h2>Frequently Asked Questions</h2>
     <div>

@@ -24,15 +24,6 @@
 <li><a class="support-multiple ablack" href="#multiple-stores">Support multiple stores and languages</a></li>
 <li><a class="customize ablack" href="#customize">Customize the menu design with ease</a></li>
 </ul>
-                                <li><a href="https://www.magezon.com/magento-2-mega-menu.html#drag-drop">Drag & drop Magento 2 Mega Menu Builder</a></li>
-                                <li><a href="https://www.magezon.com/magento-2-mega-menu.html#menu-type">Support horizontal, vertical, accordion navigation menu</a></li>
-                                <li>Make your menu more hattractive with 7 elements supported</li>
-                                <li>Fully responsive UI design</li>
-                                <li>Fastest load time, cache supported</li>
-                                <li>Support multiple stores and languages</li>
-                                <li>Create unlimited levels</li>
-                                <li>Customize the menu design with ease</li>
-                            </ul>
                         </div>
                     </div>
                     <div class="compatibility">

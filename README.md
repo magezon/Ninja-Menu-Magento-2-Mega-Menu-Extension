@@ -52,7 +52,7 @@
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
-	<tr>
+		<tr>
             <td width="50%">
                 <div class="col-md-6">
                     <h3><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Create unlimited levels</a></h3>
@@ -72,7 +72,8 @@
                 <div class="col-md-6">
                     <h3 <span style="color: #ff5510"> Drag & Drop Magento 2 Mega Menu <span>  </h3>
                     <p>With the help of our Magento 2 mega menu, you can drag &amp; drop items freely in the navigation menu. Therefore, it's easy to create your menu of columns and rows depending on the requirement. Also, you can re-arrange your menu order at a glance thanks to this amazing feature.&nbsp;</p></div>
-            </td>
+				</div>
+			</td>
         </tr>
         <tr>
             <td>
@@ -118,7 +119,7 @@
         <tr>
             <td>
                 <div class="col-md-6">
-<p><img title="Magento 2 Mega Menu | Cache supported" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Cache_supported.png" alt="Magento 2 Mega Menu | Cache supported" width="1280" height="682"></p>
+<p><img title="Magento 2 Mega Menu | Cache supported" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Cache_supported.png" alt="Magento 2 Mega Menu | Cache supported"></p>
 </div>
             </td>
 			 <td width="50%">
@@ -145,7 +146,7 @@
         <tr>
             <td>
                 <div class="col-md-6">
-<p><img title="Magento 2 Mega Menu | Multiple stores " src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_multiple_storeview.png" alt="Magento 2 Mega Menu | Multiple stores " width="1280" height="682"></p>
+<p><img title="Magento 2 Mega Menu | Multiple stores " src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_multiple_storeview.png" alt="Magento 2 Mega Menu | Multiple stores "></p>
 </div>
             </td>
 			 <td width="50%">
@@ -163,22 +164,21 @@
 </div>
                 </td>
 				<td width="50%">
-                  <div class="col-md-6">
-<p><img title="Magento 2 Mega Menu | Documentation" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-Mega-menu-_-documentation.png" alt="Magento 2 Mega Menu | Documentation">&nbsp;</p>
+                 <div class="col-md-6">
+<p><img title="Magento 2 Mega Menu | Customise menu" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Customise_menu.png" alt="Magento 2 Mega Menu | Customise menu"></p>
 </div>
                 </td>
             </tr>
 	    <tr>
 				<td width="50%">
+				<td>
+                  <div class="col-md-6">
+<p><img title="Magento 2 Mega Menu | Documentation" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-Mega-menu-_-documentation.png" alt="Magento 2 Mega Menu | Documentation" width="800" height="375">&nbsp;</p>
+</div>
+                </td>
                  <div class="col-md-6">
 <h3>Detailed Documentation &amp; Video Tutorials</h3>
 <p>We provide&nbsp;<a href="https://www.youtube.com/channel/UC1XkOcmZeAq-b2VNqM6o4rw?view_as=subscriber" target="_blank" rel="noopener">Video Tutorials</a>&nbsp;with visual guidance for building your menus. Besides, you can use <a href="https://magezon.com/pub/media/productfile/ninjamenus-v1.0.0-user_guides.pdf" target="_blank" rel="noopener">User Guide</a> for every tiny detail. If you still confuse with our instruction, contact us via mail or submit us a ticket.&nbsp;</p>
-</div>
-                </td>
-				  <td>
-                   <div class="col-md-6">
-<h3>Customize the menu design with ease</h3>
-<p>With Ninja Menus, you can now be a stylist. You can make your menu creatively without editing CSS file. No coding technique, no technical skill required. Customize your menu styles in background color, border style, font style, padding, etc.&nbsp;just by working with the&nbsp;Design Option tab.</p>
 </div>
                 </td>
             </tr>

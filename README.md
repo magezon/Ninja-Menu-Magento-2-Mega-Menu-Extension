@@ -1,4 +1,4 @@
-<h1><a href="https://www.magezon.com/magento-2-mega-menu.html">Magento 2 Ninja Mega Menu Extension</a></h1>
+<h1><a href="https://www.magezon.com/magento-2-mega-menu.html">Magento 2 Mega Menu Extension - Easy With Drag & Drop</a></h1>
 <br/>
 <br/>
 <table>
@@ -7,13 +7,23 @@
       border: none;
   ">
           <br>
-            <a href="https://www.magezon.com/magento-2-lazy-load.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/m/a/magento_2_mega_menu_ninja_menus_1.png" alt="Magento 2 Mega Menus | Ninja Menus" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
+            <a href="https://www.magezon.com/magento-2-mega-menu.html"><img src="https://www.magezon.com/pub/media/catalog/product/m/a/magento_2_mega_menu_ninja_menus_1.png" alt="Magento 2 Mega Menu | Ninja Menus" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
                 <td style="border:none;">
                     <br>
                     <div class="product attribute overview">
                         <div class="value">
-                            <strong>Magento 2 Ninja Mega Menu Extension</strong> Magento 2 mega menu is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
-                            <ul class="firebase-list">
+                            <strong>Magento 2 Mega Menu Extension</strong> is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
+                            <br><ul class="firebase-list">
+<li><a class="create-unlimited" href="#unlimited-level">Create unlimited levels</a></li>
+<li><a class="drag-drop" href="#drag-drop">Drag &amp; drop Magento 2 Mega Menu Builder</a></li>
+<li><a class="support-horizontal" href="#menu-type">Support horizontal, vertical, accordion navigation menu</a></li>
+<li><a class="make-your ablack" href="#elements">Make your menu more attractive with 7 elements supported</a></li>
+<li><a class="fully-responsive ablack" href="#responsive">Fully responsive UI design</a></li>
+<li><a class="fastest-load ablack" href="#cache">Fastest load time, cache supported</a></li>
+<li><a class="support-multiple ablack" href="#lazyload">Lazy Load technique <strong style="color: #ff5501;">NEW</strong></a></li>
+<li><a class="support-multiple ablack" href="#multiple-stores">Support multiple stores and languages</a></li>
+<li><a class="customize ablack" href="#customize">Customize the menu design with ease</a></li>
+</ul>
                                 <li><a href="https://www.magezon.com/magento-2-mega-menu.html#drag-drop">Drag & drop Magento 2 Mega Menu Builder</a></li>
                                 <li><a href="https://www.magezon.com/magento-2-mega-menu.html#menu-type">Support horizontal, vertical, accordion navigation menu</a></li>
                                 <li>Make your menu more hattractive with 7 elements supported</li>
@@ -26,9 +36,12 @@
                         </div>
                     </div>
                     <div class="compatibility">
-                        <span class="compatibility"><b>Community Edition:</b> 2.0.x - 2.2.x
-  <b>Enterprise Edition:</b> 2.0.x - 2.2.x</span>
+                        <span class="compatibility"><b>Community Edition:</b> 2.1.x, 2.2.x, 2.3.x
+  <br><b>Enterprise Edition:</b> 2.1.x, 2.2.x, 2.3.x</span>
                     </div>
+                    <div>
+                            <h3>Demo <a href="http://ninjamenus.m2.magezon.com/#horizontal-menu">Frontend</a> -  <a href="http://ninjamenus.m2.magezon.com/autologin/backend?r=ninjamenus/menu/edit&id=1&general=1&advanced=1&builder=1">Backend</a></h3>
+                        </div>
                 </td>
     </tr>
 </table>

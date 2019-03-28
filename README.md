@@ -69,13 +69,10 @@
                    <p><img title="Magento 2 Mega Menu | Drag &amp; drop" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_menu___Drag_Drop.gif" alt="Magento 2 Mega Menu | Drag &amp; drop"></p></div>
             </td> 
 			<td width="50%"></tr>
-			
-		
                 <div class="col-md-6">
                     <h3 <span style="color: #ff5510"> Drag & Drop Magento 2 Mega Menu <span>  </h3>
                     <p>With the help of our Magento 2 mega menu, you can drag &amp; drop items freely in the navigation menu. Therefore, it's easy to create your menu of columns and rows depending on the requirement. Also, you can re-arrange your menu order at a glance thanks to this amazing feature.&nbsp;</p></div>
             </td>
-			
         </tr>
         <tr>
             <td>

@@ -120,7 +120,7 @@ Live Preview mode helps save your time configuring. It displays your menu's look
             </td>
         </tr>
 	<tr><td colspan=2>
-	<table border="0"><tr><td>1</td><td>2</td><td>3</td></tr>
+	<table border="0"><tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/create-unlimited-items.png" alt="Create unlimited items" height="121" width="200"><h2 class="mgz-element-heading"> Create unlimited items</h2><p><span style="font-weight: 400;">Will a complex menu with too many items slow down the site’s speed? No. Our Ninja Menus lets create as many items as you want but doesn't affect the speed.</span></p></td><td>2</td><td>3</td></tr>
 		<tr><td>4</td><td>5</td><td>6</td></tr>
 </table>
 	</td></tr>

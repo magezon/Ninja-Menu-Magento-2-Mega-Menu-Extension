@@ -120,7 +120,7 @@ Live Preview mode helps save your time configuring. It displays your menu's look
             </td>
         </tr>
 	<tr><td colspan=2>
-	<table><tr><td>1</td><td>2</td><td>3</td></tr>
+	<table border=0><tr><td>1</td><td>2</td><td>3</td></tr>
 		<tr><td>4</td><td>5</td><td>6</td></tr>
 </table>
 	</td></tr>

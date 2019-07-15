@@ -248,8 +248,8 @@ The simpler site structure tells search engine crawlers exactly where are your m
 	<h3>100% Compatible with</h3>
 	<table>
 		<tr><td width="50%"><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/mega-menu-compatible-magezon-page-builder.png" alt="Compatible with Magezon Page Builder" ></td><td width="50%"><h3>Magezon Page Builder</h3>
-			<p><span>Ninja Menus is compatible with Magezon Page Builder. Installing both of them means you can use all the 50 elements inherited from our page builder. As they get the same core builder, no need to learn new tools, configure with the familiar builder, easily.</span></p><div class="mgz-button mgz-btn-style-flat mgz-btn-size-sm"><a href="http://ninjamenus.m2.magezon.com/autologin/backend?r=ninjamenus/menu/edit&amp;menu_id=1" class="mgz-btn" title="See Our Demo"><span>See Our Demo</span></a></div></td>
-			<td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/ultimo-theme_1.jpeg" alt="Compatible with Ultimo theme"></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/porto-theme.jpg" alt="Compatible with Porto theme"></td>
+			<p><span>Ninja Menus is compatible with Magezon Page Builder. Installing both of them means you can use all the 50 elements inherited from our page builder. As they get the same core builder, no need to learn new tools, configure with the familiar builder, easily.</span></p><div class="mgz-button mgz-btn-style-flat mgz-btn-size-sm"><a href="http://ninjamenus.m2.magezon.com/autologin/backend?r=ninjamenus/menu/edit&amp;menu_id=1" class="mgz-btn" title="See Our Demo"><span>See Our Demo</span></a></div></td></tr><tr>
+			<td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/ultimo-theme_1.jpeg" alt="Compatible with Ultimo theme"></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/porto-theme.jpg" alt="Compatible with Porto theme"></td></tr>
 	</table></td>
 	</tbody>
 </table>

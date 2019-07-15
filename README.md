@@ -124,69 +124,76 @@ Live Preview mode helps save your time configuring. It displays your menu's look
 		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/fast-and-easy-to-use.png" alt="Fast &amp; Easy to use" height="121" width="200"><h4 class="mgz-element-heading"> Fast &amp; Easy to use</h4><p><span>Manage your menu items instantly after adding them in the builder. Create your brilliant mega menu with our user-friendly interface.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/live-preview.png" alt="Live Preview" height="121" width="200"><h4 class="mgz-element-heading"> Live Preview</h4><p><span>With this helpful feature, you can add items and see immediately how they look from the back end. No more waiting so see the differences.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/multi-columns.png" alt="Live Preview" height="121" width="200"><h4 class="mgz-element-heading"> Multiple Columns</h4><p><span style="font-weight: 400;">No need to use code to divide</span><span style="font-weight: 400;">the</span><span style="font-weight: 400;"> menu into columns.&nbsp; With rows and columns element, create multiple columns never been easier.</span></p></td></tr>
 		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/magezon-core-builder.png" alt="Magezon Core Builder" height="121" width="200"><h2 class="mgz-element-heading"> Magezon Core Builder</h2><p><span style="font-weight: 400;">Like <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magezon Page Builder</a>, <a href="https://www.magezon.com/magento-2-form-builder.html/">Blue Form Builder</a> and <a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Single Product Page Builder</a>, Ninja Menus uses the same backend builder. Getting familiar with one means you know how to use all of them.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/custom-css-supported.png" alt="Custom CSS Supported" height="121" width="200"><h4 class="mgz-element-heading"> Custom CSS Supported</h4><p><span>Want to add a bit of Custom CSS code for your mega menu? With Ninja Menus, you can do so directly from the builder. Just click the setting icon on the toolbar and add your own code.</span></p></td><td><h4><a href="http://ninjamenus.m2.magezon.com/autologin/backend?r=ninjamenus/menu/edit&amp;menu_id=1" class="mgz-btn" title="See Our Free Demo"><span>See Our Free Demo</span></a></h4></td></tr>
        </table>
-	<table>
+	</td></tr>
+	<tr>
+	<td colspan=2><table>
 		<tr><td>1</td><td>2</td><td>3</td></tr>
 		<tr><td>4</td><td>5</td><td>6</td></tr>
-       </table>
-	</td></tr>
-	<tr><td colspan=2>
-	<table border="0"><tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/create-unlimited-items.png" alt="Create unlimited items" height="121" width="200"><h4 class="mgz-element-heading"> Create unlimited items</h4><p><span style="font-weight: 400;">Will a complex menu with too many items slow down the site’s speed? No. Our Ninja Menus lets create as many items as you want but doesn't affect the speed.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/create-unlimited-levels.png" alt="Create unlimited levels" width="200"><h4>Create unlimited levels</h4><p><span style="font-weight: 400;">Ninja Menus comes with unlimited levels feature that helps show up all your items but still look tidy. Customize each level's size and color at ease.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/link-to-category-or-custom-link.png" alt="Link to category or custom link" height="121" width="200"><h4 class="mgz-element-heading"> Link to category or custom link</h4><p><span style="font-weight: 400;">Add category link or custom link to your menu items with 1 click. Moreover, Ninja Menus also supports CMS page link and product link. Bring your customers to any desired page.</span></p></td></tr>
-		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/2-submenu-types.png" alt="2 submenu types" height="121" width="200"><h4 class="mgz-element-heading"> 2 submenu types</h4><p><span style="font-weight: 400;">There are 2 submenu types: Mega and Stack submenu. Also you have 7 flexible positions to decide where to display the submenu in relation to its parent item or the menu bar.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/design-item-with-style-tab.png" alt="Design item with Style Tab" height="121" width="200"><h4 class="mgz-element-heading"> Design item with Style Tab</h4><p><span style="font-weight: 400;">Customize the color and size of individual menu items with ease. Not all, design your submenu by adding</span><span style="font-weight: 400;">a</span><span style="font-weight: 400;">background, border, etc that</span><span style="font-weight: 400;">fits</span><span style="font-weight: 400;"> your style.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/80-animation-effects.png" alt="80+ Animations Effects" height="121" width="200"><h4 class="mgz-element-heading"> 80+ Animations Effects</h4><p><span style="font-weight: 400;">Make your menu more appealing with the help of 80+ animation effects. This way, your customers' experience can be enhanced dramatically.</span></p></td></tr>
-</table>
-	</td></tr>
-        <tr id="cache">
+       </table></td>
+</tr>
+	        <tr id="11-elements-supported">
             <td>
                 <div class="col-md-6">
-<p><img title="Magento 2 Mega Menu | Cache supported" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Cache_supported.png" alt="Magento 2 Mega Menu | Cache supported"></p>
+<p><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/11-elements-supported.png" alt="11 elements supported" height="299" width="600"></p>
 </div>
             </td>
 			 <td width="50%">
               <div class="col-md-6">
-<h3>Fastest load time, Cache Supported</h3>
-<p>In fact, no one should wait for a slow loading page. In order to enhance your sale, we <a title="Magento 2 Lazy Load Extension" href="https://www.magezon.com/magento-2-lazy-load.html">make your Magento store faster</a> by supporting super cache feature. This will generate static HTML menu code and bypass the interaction with the database on every page load.&nbsp;&nbsp;</p>
+<h3>11 elements supported</h3>
+<p>Use your imagination and creativity to make the menu engaging. With more than 11 elements supported, shape your own menu style easily. Why don't build your own rich content and professional menu by combining them together? Headings, separator or some vivid videos to grab more attention. Even Google Maps can be added to show off your place exactly.
+
+Magento Widget is an element that helps with adding third-party elements to your menu from links, blocks, product list to other menus, at a glance.</p>
 </div>
             </td>
         </tr>
-        <tr id="lazyload">
+        <tr>
             <td>
               <div class="col-md-6">
-<h3>Lazy Load technique</h3>
-<p>Magento 2 mega menu now supports Lazy load technique which helps saving loading time. It's set not to load images and iframe (Video, google map, etc) in the menu until hovering&nbsp;to them. <br>Loading only on demand - best choice to reduce server requests and page size. Save a huge amount of bandwidth. <br>As a result, website loading speed will increase sharply. It is absolutely good for SEO and one of the key factors to getting high Google rankings.</p>
-<div class="btn3-inline"><a href="https://blog.magezon.com/ninja-menus-update-lazy-load-technique-applied">Get More Info</a></div>
+<h3>Easily Add Images</h3>
+<p>A menu which is full of plain text can't be an attractive one. Decorating it with some vivid images is a great way to prevent your customers from getting bored.
+
+Catch your customers' attention at first sight. Provide them visual references to quickly navigate through your page.</p>
 </div>
             </td>
 			<td width="50%">
                 <div class="col-md-6">
-<p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_lazy_load.gif" alt="Magento 2 mega menu | Lazy load technique "></p>
+<p><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/easily-add-images.png" alt="Easily Add Images"></p>
 </div>
             </td>
         </tr>
-        <tr id="multiple-stores">
+        <tr>
             <td>
                 <div class="col-md-6">
-<p><img title="Magento 2 Mega Menu | Multiple stores " src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_multiple_storeview.png" alt="Magento 2 Mega Menu | Multiple stores "></p>
+<p><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/tabbed-submenus.png" alt="Tabbed Submenus" ></p>
 </div>
             </td>
 			 <td width="50%">
                <div class="col-md-6">
-<h3>Support multiple stores and languages</h3>
-<p>The more language preferences your site get, the more convincing it will be. With Ninja Menus, you can create Store Views for different languages. As a result, your customers can switch to their referenced alternatives with ease.</p>
+<h3>Tabbed Submenus</h3>
+<p>Lots of submenu content with complex structure but own a little space? Items inside the menu are not organized in an eye-catching format?
+
+With our tabbed element, you can organize your submenus into tabs which locate on the above, below, or right of the content panels effortlessly. This way, you save a lot of menu space and keep it tider.</p>
 </div>
             </td>
 			</tr>
-        <tr id="customize">
+        <tr id="menu-item">
                 <td>
                    <div class="col-md-6">
-<h3>Customize the menu design with ease</h3>
-<p>With Ninja Menus, you can now be a stylist. You can make your menu creatively without editing CSS file. No coding technique, no technical skill required. Customize your menu styles in background color, border style, font style, padding, etc.&nbsp;just by working with the&nbsp;Design Option tab.</p>
+<h3>Menu Item</h3>
+<p>Create unlimited menu items, widen your mega menu the way you want. Attract your visitors at first sight with Icon, Label and Caret which are spot-light of your menu. Plus, you are given the right to decide whether or not to show them on mobile.</p>
 </div>
                 </td>
 				<td width="50%">
                  <div class="col-md-6">
-<p><img title="Magento 2 Mega Menu | Customise menu" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Customise_menu.png" alt="Magento 2 Mega Menu | Customise menu"></p>
+<p><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/menu-item.png" alt=""></p>
 </div>
                 </td>
             </tr>
+	    <tr><td colspan=2>
+	<table border="0"><tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/create-unlimited-items.png" alt="Create unlimited items" height="121" width="200"><h4 class="mgz-element-heading"> Create unlimited items</h4><p><span style="font-weight: 400;">Will a complex menu with too many items slow down the site’s speed? No. Our Ninja Menus lets create as many items as you want but doesn't affect the speed.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/create-unlimited-levels.png" alt="Create unlimited levels" width="200"><h4>Create unlimited levels</h4><p><span style="font-weight: 400;">Ninja Menus comes with unlimited levels feature that helps show up all your items but still look tidy. Customize each level's size and color at ease.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/link-to-category-or-custom-link.png" alt="Link to category or custom link" height="121" width="200"><h4 class="mgz-element-heading"> Link to category or custom link</h4><p><span style="font-weight: 400;">Add category link or custom link to your menu items with 1 click. Moreover, Ninja Menus also supports CMS page link and product link. Bring your customers to any desired page.</span></p></td></tr>
+		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/2-submenu-types.png" alt="2 submenu types" height="121" width="200"><h4 class="mgz-element-heading"> 2 submenu types</h4><p><span style="font-weight: 400;">There are 2 submenu types: Mega and Stack submenu. Also you have 7 flexible positions to decide where to display the submenu in relation to its parent item or the menu bar.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/design-item-with-style-tab.png" alt="Design item with Style Tab" height="121" width="200"><h4 class="mgz-element-heading"> Design item with Style Tab</h4><p><span style="font-weight: 400;">Customize the color and size of individual menu items with ease. Not all, design your submenu by adding</span><span style="font-weight: 400;">a</span><span style="font-weight: 400;">background, border, etc that</span><span style="font-weight: 400;">fits</span><span style="font-weight: 400;"> your style.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/80-animation-effects.png" alt="80+ Animations Effects" height="121" width="200"><h4 class="mgz-element-heading"> 80+ Animations Effects</h4><p><span style="font-weight: 400;">Make your menu more appealing with the help of 80+ animation effects. This way, your customers' experience can be enhanced dramatically.</span></p></td></tr>
+</table>
+	</td></tr>
 	    <tr id="guide">
 				<td width="50%">
                   <div class="col-md-6">

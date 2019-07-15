@@ -61,8 +61,7 @@
                 <div class="col-md-6">
                     <h3>Create beautiful menu layouts</h3>
 <p>With a built-in grid system and individual layout controls for each menu item, building amazing mega menu is now a piece of cake. Quickly build your own professional mega menu like a pro within a few minutes using our intuitive interface, no coding skills needed. Not all, 8 beautifully pre-designed menus can absolutely help to save a lot of time..</p></div>
-           
-			</td>
+         </td>
             <td><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">
 <p> <img src="https://www.magezon.com/pub/media/ninjamenus2/create-beautiful-menu-layouts.png" alt="Magento 2 mega menu | Multi level "></p>
           </a></td>

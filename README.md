@@ -65,7 +65,7 @@
 			</td>
             <td><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">
 <p> <img src="https://www.magezon.com/pub/media/ninjamenus2/create-beautiful-menu-layouts.png" alt="Magento 2 mega menu | Multi level "></p>
-          </a>  </td>
+          </a></td>
         </tr>
         <tr id="responsive">
             <td>
@@ -84,9 +84,7 @@
                <div class="col-md-6">
 <h3>Display menu in 4 types</h3>
 <p>Ninja Menus does support 4 menu types: Horizontal, Vertical, Accordion and Drilldown. All are fully responsive and displayed perfectly in any device.
-
 Add a menu item from the backend then select the desired type then see how it looks in the storefront instantly.</p>
-
             </td>
 			 <td width="50%">
                <div class="col-md-6"><img class="owl-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/ninjamenus2/horizontal-menu.png" src="https://www.magezon.com/pub/media/ninjamenus2/horizontal-menu.png" alt="" style="opacity: 1;"></div>

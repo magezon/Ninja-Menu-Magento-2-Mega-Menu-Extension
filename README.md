@@ -134,7 +134,7 @@ Live Preview mode helps save your time configuring. It displays your menu's look
 	        <tr id="11-elements-supported">
             <td>
                 <div class="col-md-6">
-<p><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/11-elements-supported.png" alt="11 elements supported" height="299" width="600"></p>
+<p><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/11-elements-supported.png" alt="11 elements supported"></p>
 </div>
             </td>
 			 <td width="50%">
@@ -197,15 +197,48 @@ With our tabbed element, you can organize your submenus into tabs which locate o
 	    <tr id="guide">
 				<td width="50%">
                   <div class="col-md-6">
-<p><img title="Magento 2 Mega Menu | Documentation" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-Mega-menu-_-documentation.png" alt="Magento 2 Mega Menu | Documentation">&nbsp;</p>
+			  <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/cache-supported.png" alt="Fastest load time, Cache Supported">
 </div>
 </td>
                 <td>
                  <div class="col-md-6">
-<h3>Detailed Documentation &amp; Video Tutorials</h3>
-<p>We provide&nbsp;<a href="https://www.youtube.com/channel/UC1XkOcmZeAq-b2VNqM6o4rw?view_as=subscriber" target="_blank" rel="noopener">Video Tutorials</a>&nbsp;with visual guidance for building your menus. Besides, you can use <a href="https://magezon.com/pub/media/productfile/ninjamenus-v1.0.0-user_guides.pdf" target="_blank" rel="noopener">User Guide</a> for every tiny detail. If you still confuse with our instruction, contact us via mail or submit us a ticket.&nbsp;</p>
+<h3>Fastest load time, Cache Supported</h3>
+			 <p><span style="color: #ffffff;">Undeniably, no one is patient enough to await slowly loading pages. To increase your sales, we accelerate the speed of your store by supporting a super cache feature. Following Magento 2 standards, it generates the static HTML menu code as well as bypassing the interaction with the database on each page load.</span></p>
 </div>
                 </td>
+            </tr>
+	       <tr id="guide">
+	     <td>
+                 <div class="col-md-6">
+<h3>Lazy Load technique</h3> <p><span style="font-weight: 400;">Ninja Menus supports Lazy Load technique that lets your site load on demand and</span><span style="font-weight: 400;">hovering</span><span style="font-weight: 400;"> only. The heavy elements like Image, Video or Google Map will not be loaded until customers scroll down and hover on the menu items. This way, it helps save bandwidth but not affect the site speed.</span></p>
+</div>
+                </td>
+				<td width="50%">
+                  <div class="col-md-6">
+</div>
+</td>
+            </tr>
+	       <tr id="guide">
+				<td width="50%">
+                  <div class="col-md-6"><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/mega-menu-lazy-load.gif" alt="">
+</div>
+</td>
+                <td>
+                 <div class="col-md-6">
+<h3></h3>
+</div>
+                </td>
+            </tr>
+	       <tr id="guide">
+                <td>
+                 <div class="col-md-6">
+<h3></h3>
+</div>
+                </td>
+				<td width="50%">
+                  <div class="col-md-6">
+</div>
+</td>
             </tr>
 	</tbody>
 </table>

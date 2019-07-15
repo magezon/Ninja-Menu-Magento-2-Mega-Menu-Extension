@@ -69,7 +69,7 @@
         <tr id="responsive">
             <td>
                 <div class="col-md-6">
-                   <p><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/fully-responsive-mobile-friendly.png" alt="Fully Responsive - Mobile Friendly" height="415" width="550"></p></div>
+                   <p><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/fully-responsive-mobile-friendly.png" alt="Fully Responsive - Mobile Friendly"></p></div>
             </td> 
 			<td width="50%">
                 <div class="col-md-6">

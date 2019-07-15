@@ -11,17 +11,21 @@
                     <br>
                     <div class="product attribute overview">
                         <div class="value">
-                           <p> <strong>Magento 2 Mega Menu Extension</strong> is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
+                           <p> <strong>Ninja Menus</strong> is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
                             </p><ul class="firebase-list">
-<li><a class="create-unlimited" href="#unlimited-level">Create unlimited levels</a></li>
-<li><a class="drag-drop" href="#drag-drop">Drag &amp; drop Magento 2 Mega Menu Builder</a></li>
-<li><a class="support-horizontal" href="#menu-type">Support horizontal, vertical, accordion navigation menu</a></li>
-<li><a class="make-your ablack" href="#elements">Make your menu more attractive with 7 elements supported</a></li>
-<li><a class="fully-responsive ablack" href="#responsive">Fully responsive UI design</a></li>
-<li><a class="fastest-load ablack" href="#cache">Fastest load time, cache supported</a></li>
-<li><a class="support-multiple ablack" href="#lazyload">Lazy Load technique <strong style="color: #ff5501;">NEW</strong></a></li>
+<li><a class="create-unlimited" href="#unlimited-level">Create beautiful menu layouts</a></li>
+<li><a class="fully-responsive ablack" href="#responsive">Fully Responsive - Mobile Friendly</a></li>
+	<li><a class="fully-responsive ablack" href="#display-menu-in-4-types">Display menu in 4 types</a></li>
+					<li><a class="fully-responsive ablack" href="#8-predefined-menus">8 Predefined Menus</a></li>
+<li><a class="drag-drop" href="#drag-drop">Drag & Drop Menu Builder <strong style="color: #ff5501;">FEATURED</strong></a></li>
+				<li><a class="drag-drop" href="#11-elements-supported">11 elements supported</a></li>
+				<li><a class="drag-drop" href="#menu-item">Menu Item</a></li>
+				<li><a class="drag-drop" href="#fastest-load-time-cache-supported">Fastest load time, Cache Supported</a></li>
+<li><a class="fastest-load ablack" href="#cache">Fastest load time, Cache Supported</a></li>
+<li><a class="support-multiple ablack" href="#lazyload">Lazy Load technique <strong style="color: #ff5501;">FEATURED</strong></a></li>
+				<li><a class="fastest-load ablack" href="#seo-friendly">SEO Friendly</a></li>
 <li><a class="support-multiple ablack" href="#multiple-stores">Support multiple stores and languages</a></li>
-<li><a class="customize ablack" href="#customize">Customize the menu design with ease</a></li>
+<li><a class="customize ablack" href="#compatible-with-porto-ultimo">100% Compatible with: Magezon Page Builder, Ultimo, Porto theme</a></li>
 </ul>
                         </div>
                     </div>

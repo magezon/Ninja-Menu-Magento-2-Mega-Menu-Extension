@@ -17,12 +17,12 @@
 <li><a class="fully-responsive ablack" href="#responsive">Fully Responsive - Mobile Friendly</a></li>
 	<li><a class="fully-responsive ablack" href="#display-menu-in-4-types">Display menu in 4 types</a></li>
 					<li><a class="fully-responsive ablack" href="#8-predefined-menus">8 Predefined Menus</a></li>
-<li><a class="drag-drop" href="#drag-drop">Drag & Drop Menu Builder <strong style="color: #ff5501;">FEATURED</strong></a></li>
+<li><a class="drag-drop" href="#drag-drop">Drag & Drop Menu Builder <strong style="color: #ff5501;">(FEATURED)</strong></a></li>
 				<li><a class="drag-drop" href="#11-elements-supported">11 elements supported</a></li>
 				<li><a class="drag-drop" href="#menu-item">Menu Item</a></li>
 				<li><a class="drag-drop" href="#fastest-load-time-cache-supported">Fastest load time, Cache Supported</a></li>
 <li><a class="fastest-load ablack" href="#cache">Fastest load time, Cache Supported</a></li>
-<li><a class="support-multiple ablack" href="#lazyload">Lazy Load technique <strong style="color: #ff5501;">FEATURED</strong></a></li>
+<li><a class="support-multiple ablack" href="#lazyload">Lazy Load technique <strong style="color: #ff5501;">(FEATURED)</strong></a></li>
 				<li><a class="fastest-load ablack" href="#seo-friendly">SEO Friendly</a></li>
 <li><a class="support-multiple ablack" href="#multiple-stores">Support multiple stores and languages</a></li>
 <li><a class="customize ablack" href="#compatible-with-porto-ultimo">100% Compatible with: Magezon Page Builder, Ultimo, Porto theme</a></li>
@@ -44,7 +44,7 @@
 <p style="text-align: left;">Do you find your website on Magento 2 mega menu is too simple and unattractive? Do you want to boost your customer’s shopping experience by finding exactly what they want in just one click? Want to easily customize your own menus of your style but have no technical skills? With the help of our Magento 2 Ninja Menus Extension, you can not only solve all these problems but also creatively make a comprehensive menu system by yourself.</p>
 <p style="text-align: left;">No technical or coding knowledge is required! The simple and intuitive drag & drop interface of our Magento 2 Mega Menu Extension helps instantly create any desired menus with tons of complex structures from the backend. Now you don't have to worry about any risks and mistakes anymore. It supports 3 different types and 7 additional elements on the navigation menu. Hence, you can make a creative menu your way showing off all products effectively. Above all, your site is still browsing in a stable speed at that time.</p>
 <p style="text-align: left;">Your customers are now provided with the ability to navigate your online store. They can also find what they’re really looking for in next to no time. Moreover, Magento 2 Ninja Menus Extension is 100% responsive, which means your menu will automatically adapt to any screen size of any devices. Users might browse through your site on the computer screen, tablets or even mobile phones.</p>
-<h3><a id="user-content-watch-video-now--" class="anchor" aria-hidden="true" href="#watch-video-now--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://www.youtube.com/watch?v=QiHzXF71sIA" rel="nofollow">Watch Video Now !</a> &nbsp;</h3>
+<h3><a id="user-content-watch-video-now--" class="anchor" aria-hidden="true" href="#watch-video-now--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://www.youtube.com/watch?v=_mwIa-j1Wl4" rel="nofollow">Watch Video Now !</a> &nbsp;</h3>
 <br/>
 <h2>Business Vallues</h2>
 <ul class="firebase-list">
@@ -59,38 +59,37 @@
 		<tr id="unlimited-level">
             <td width="50%">
                 <div class="col-md-6">
-                    <h3><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Create unlimited levels</a></h3>
-<p>Our Magento 2 Ninja Menus Extension allows you to generate an unlimited multi-level navigation menu. One category can be dragged above, below or inside another category. You can create all the levels at the same time. Also, you can control their positions in the real menu on the storefront.</p></div>
-            <div class="btn3-inline"><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">Get More Info</a></div>
+                    <h3>Create beautiful menu layouts</h3>
+<p>With a built-in grid system and individual layout controls for each menu item, building amazing mega menu is now a piece of cake. Quickly build your own professional mega menu like a pro within a few minutes using our intuitive interface, no coding skills needed. Not all, 8 beautifully pre-designed menus can absolutely help to save a lot of time..</p></div>
+           
 			</td>
             <td><a href="https://www.magezon.com/magento-2-mega-menu-create-unlimited-levels">
-<p> <img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-mega-menu-_-Multi-level-.png" alt="Magento 2 mega menu | Multi level "></p>
+<p> <img src="https://www.magezon.com/pub/media/ninjamenus2/create-beautiful-menu-layouts.png" alt="Magento 2 mega menu | Multi level "></p>
           </a>  </td>
         </tr>
-        <tr id="drag-drop">
+        <tr id="responsive">
             <td>
                 <div class="col-md-6">
-                   <p><img title="Magento 2 Mega Menu | Drag &amp; drop" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_menu___Drag_Drop.gif" alt="Magento 2 Mega Menu | Drag &amp; drop"></p></div>
+                   <p><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/fully-responsive-mobile-friendly.png" alt="Fully Responsive - Mobile Friendly" height="415" width="550"></p></div>
             </td> 
 			<td width="50%">
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> Drag & Drop Magento 2 Mega Menu <span>  </h3>
+                    <h3 <span style="color: #ff5510">Responsive Magento 2 Mega Menu <span>  </h3>
                     <p>With the help of our Magento 2 mega menu, you can drag &amp; drop items freely in the navigation menu. Therefore, it's easy to create your menu of columns and rows depending on the requirement. Also, you can re-arrange your menu order at a glance thanks to this amazing feature.&nbsp;</p></div>
 				</div>
 			</td>
         </tr>
-        <tr id="menu-type">
+        <tr id="display-menu-in-4-types">
             <td>
                <div class="col-md-6">
-<h3><a href="https://www.magezon.com/magento-2-mega-menu-different-menu-types">Display menu in 3 types</a></h3>
-<p>First, Magento 2 mega menu helps you set your menu in horizontal, vertical or accordion style with Magento 2 mega menu extension. Then, choose the “Type" option to apply for your menu from the backend. After that, you can immediately see how it looks in the storefront. Above all, menu items will be arranged beautifully and visible at once.</p>
-<div class="btn3-inline"><a href="https://www.magezon.com/magento-2-mega-menu-different-menu-types">Get More Info</a></div>
-</div>
+<h3>Display menu in 4 types</h3>
+<p>Ninja Menus does support 4 menu types: Horizontal, Vertical, Accordion and Drilldown. All are fully responsive and displayed perfectly in any device.
+
+Add a menu item from the backend then select the desired type then see how it looks in the storefront instantly.</p>
+
             </td>
 			 <td width="50%">
-               <div class="col-md-6"><a href="https://www.magezon.com/magento-2-mega-menu-different-menu-types">
-<p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-mega-menu-_-3-different-type.png" alt="Magento 2 mega menu | 3 types"></p>
-</a></div>
+               <div class="col-md-6"><img class="owl-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/ninjamenus2/horizontal-menu.png" src="https://www.magezon.com/pub/media/ninjamenus2/horizontal-menu.png" alt="" style="opacity: 1;"></div>
             </td>
         </tr>
         <tr id="elements">

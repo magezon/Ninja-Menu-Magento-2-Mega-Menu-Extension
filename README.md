@@ -21,7 +21,6 @@
 				<li><a class="drag-drop" href="#11-elements-supported">11 elements supported</a></li>
 				<li><a class="drag-drop" href="#menu-item">Menu Item</a></li>
 				<li><a class="drag-drop" href="#fastest-load-time-cache-supported">Fastest load time, Cache Supported</a></li>
-<li><a class="fastest-load ablack" href="#cache">Fastest load time, Cache Supported</a></li>
 <li><a class="support-multiple ablack" href="#lazyload">Lazy Load technique <strong style="color: #ff5501;">(FEATURED)</strong></a></li>
 				<li><a class="fastest-load ablack" href="#seo-friendly">SEO Friendly</a></li>
 <li><a class="support-multiple ablack" href="#multiple-stores">Support multiple stores and languages</a></li>
@@ -188,7 +187,7 @@ With our tabbed element, you can organize your submenus into tabs which locate o
 		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/2-submenu-types.png" alt="2 submenu types" height="121" width="200"><h4 class="mgz-element-heading"> 2 submenu types</h4><p><span style="font-weight: 400;">There are 2 submenu types: Mega and Stack submenu. Also you have 7 flexible positions to decide where to display the submenu in relation to its parent item or the menu bar.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/design-item-with-style-tab.png" alt="Design item with Style Tab" height="121" width="200"><h4 class="mgz-element-heading"> Design item with Style Tab</h4><p><span style="font-weight: 400;">Customize the color and size of individual menu items with ease. Not all, design your submenu by adding</span><span style="font-weight: 400;">a</span><span style="font-weight: 400;">background, border, etc that</span><span style="font-weight: 400;">fits</span><span style="font-weight: 400;"> your style.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/80-animation-effects.png" alt="80+ Animations Effects" height="121" width="200"><h4 class="mgz-element-heading"> 80+ Animations Effects</h4><p><span style="font-weight: 400;">Make your menu more appealing with the help of 80+ animation effects. This way, your customers' experience can be enhanced dramatically.</span></p></td></tr>
 </table>
 	</td></tr>
-	    <tr id="guide">
+	    <tr id="lazyload">
 				<td width="50%">
                   <div class="col-md-6">
 			  <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/cache-supported.png" alt="Fastest load time, Cache Supported">
@@ -226,18 +225,18 @@ The simpler site structure tells search engine crawlers exactly where are your m
 </div>
                 </td>
             </tr>
-	       <tr id="guide">
-                <td>
-                 <div class="col-md-6">
-<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/support-multiple-stores-and-languages.png" alt="" height="170" width="460">
-</div>
-                </td>
-				<td width="50%">
+	       <tr id="multiple-stores">
+	<td width="50%">
                   <div class="col-md-6">
 			  <h3>Support Multiple Stores and Languages</h3>
 			  <p><span style="color: #ffffff;">The more language preferences your site gets, the more convincing it will be. Ninja Menus lets you create menu in different languages.</span></p>
 </div>
 </td>
+                <td>
+                 <div class="col-md-6">
+<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/support-multiple-stores-and-languages.png" alt="" height="170" width="460">
+</div>
+                </td>
             </tr>
 	    <tr>
 	<td colspan=2><table>
@@ -245,6 +244,12 @@ The simpler site structure tells search engine crawlers exactly where are your m
 		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/2-icon-libraries.png" alt="2 icon libraries" height="121" width="200"><h4 class="mgz-element-heading"> 2 fonts icon library</h4>2 icon libraries give you more choices in the design progress. Select the icons that fit your style most from 990 icons in Awesome 5 library and over 150 in Open Iconic.</td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/developer-friendly.png" alt="Developer Friendly" width="200"><h4 class="mgz-element-heading"> Developer Friendly</h4>Wanna extend your menus? Our extension strictly follows Magento 2 standards that let every developer extends it at ease.</td><td></td></tr>
        </table></td>
 </tr>
+<td colspan=2>
+	<h3>100% Compatible with</h3>
+	<table>
+		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/mega-menu-compatible-magezon-page-builder.png" alt="Compatible with Magezon Page Builder" ></td><td><h3>Magezon Page Builder</h3>
+			<p><span>Ninja Menus is compatible with Magezon Page Builder. Installing both of them means you can use all the 50 elements inherited from our page builder. As they get the same core builder, no need to learn new tools, configure with the familiar builder, easily.</span></p><div class="mgz-button mgz-btn-style-flat mgz-btn-size-sm"><a href="http://ninjamenus.m2.magezon.com/autologin/backend?r=ninjamenus/menu/edit&amp;menu_id=1" class="mgz-btn" title="See Our Demo"><span>See Our Demo</span></a></div></td>
+	</table></td>
 	</tbody>
 </table>
 <br/>

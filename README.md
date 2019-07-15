@@ -244,13 +244,20 @@ The simpler site structure tells search engine crawlers exactly where are your m
 		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/2-icon-libraries.png" alt="2 icon libraries" height="121" width="200"><h4 class="mgz-element-heading"> 2 fonts icon library</h4>2 icon libraries give you more choices in the design progress. Select the icons that fit your style most from 990 icons in Awesome 5 library and over 150 in Open Iconic.</td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/developer-friendly.png" alt="Developer Friendly" width="200"><h4 class="mgz-element-heading"> Developer Friendly</h4>Wanna extend your menus? Our extension strictly follows Magento 2 standards that let every developer extends it at ease.</td><td></td></tr>
        </table></td>
 </tr>
+<tr>
 <td colspan=2>
 	<h3>100% Compatible with</h3>
 	<table>
 		<tr><td width="50%"><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/mega-menu-compatible-magezon-page-builder.png" alt="Compatible with Magezon Page Builder" ></td><td width="50%"><h3>Magezon Page Builder</h3>
 			<p><span>Ninja Menus is compatible with Magezon Page Builder. Installing both of them means you can use all the 50 elements inherited from our page builder. As they get the same core builder, no need to learn new tools, configure with the familiar builder, easily.</span></p><div class="mgz-button mgz-btn-style-flat mgz-btn-size-sm"><a href="http://ninjamenus.m2.magezon.com/autologin/backend?r=ninjamenus/menu/edit&amp;menu_id=1" class="mgz-btn" title="See Our Demo"><span>See Our Demo</span></a></div></td></tr><tr>
 			<td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/ultimo-theme_1.jpeg" alt="Compatible with Ultimo theme"></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/porto-theme.jpg" alt="Compatible with Porto theme"></td></tr>
-	</table></td>
+	</table></td></tr>
+	<tr>
+<td colspan=2>
+	<td>
+		<table><tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/premium-online-support.png" alt="Premium Online Support" height="160" width="160"><h4 class="mgz-element-heading"> Premium Online Support</h4><p>Ninja Menus is offering top class online support to handle all your requests. All your requets will be resolved within 24 hours.</p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/knowledge-base-and-video-tutorials.png" alt="Knowledge Base and Video Tutorials" height="167" width="225"><h4 class="mgz-element-heading"> Knowledge Base and Video Tutorials</h4><p><span>We provide&nbsp;</span><a href="https://www.youtube.com/channel/UC1XkOcmZeAq-b2VNqM6o4rw?view_as=subscriber" target="_blank" rel="noopener">Video Tutorials</a><span>&nbsp;with visual guidance for using the extension. Besides, you can use&nbsp;</span><a title="Magento 2 Ninja Menus User Guide" href="https://magezon.com/pub/media/productfile/ninjamenus-v1.0.0-user_guides.pdf" target="_blank" rel="noopener">User Guide</a><span>&nbsp;for every tiny detail.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/ninjamenus-update.png" alt="LifeTime Updates Free of Charge" height="167" width="324"><h4 class="mgz-element-heading"> LifeTime Updates Free of Charge</h4><p>We guarantee that you don’t have to pay for Ninja Menus updates. With Ninja Menus purchase, you will receive lifetime access to our updates completely free of charge.</p></td></tr></table>
+</td>
+</tr>
 	</tbody>
 </table>
 <br/>

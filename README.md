@@ -89,30 +89,33 @@ Add a menu item from the backend then select the desired type then see how it lo
                <div class="col-md-6"><img class="owl-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/ninjamenus2/horizontal-menu.png" src="https://www.magezon.com/pub/media/ninjamenus2/horizontal-menu.png" alt="" style="opacity: 1;"></div>
             </td>
         </tr>
-        <tr id="elements">
+        <tr id="8-predefined-menus">
             <td>
-               <div class="col-md-6"><a title="Supported elements" href="https://www.magezon.com/magento-2-mega-menu-supported-elements">
-<p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Support_7_elements.png" alt="Magento 2 mega menu | 7 elments supported "></p>
-</a></div>
+               <div class="col-md-6"><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/8-predefined-menus.png" alt="Display menu in 4 types"></div>
             </td>
 			 <td width="50%">
               <div class="col-md-6">
-<h3><a href="https://www.magezon.com/magento-2-mega-menu-supported-elements">Make your menu more attractive with 7 elements supported</a></h3>
-<p>Use your own imagination and creativity to make your menu more interesting. For this purpose, you can assign an image or a picture directly from your computer or using the URL. Moreover, our 7 elements can be added to the top, bottom,&nbsp;and side of your menu, fitting it gracefully.</p>
-<div class="btn3-inline"><a title="Supported elements" href="https://www.magezon.com/magento-2-mega-menu-supported-elements" target="_blank" rel="noopener">Get More Info</a></div>
+<h3><a href="https://www.magezon.com/magento-2-mega-menu-supported-elements">8 Predefined Menus</a></h3>
+<p>Wanna create a gorgeous menu but don't know where to start? Have no idea how to design your own navigation?
+		      </p><p>
+No need to worry, we provide you with 8 most common menus. Just import your desired one directly from the template list. Then, modify it to be your own menu. This helpful feature definitely saves a lot of time for you.</p>
 </div>
             </td>
         </tr>
         <tr id="responsive">
             <td>
                 <div class="col-md-6">
-<h3>Fully Responsive UI design</h3>
-<p>As you know, responsive web design is essential in your e-commerce website. Thus,&nbsp;our Magento 2 mega menu is tested successfully in all modern browsers and mobiles. Now, your customers can shop whenever and wherever possible, with any device. Now, no more loading huge website design on such a tiny mobile screen! No more zoom in and out to find what you want!</p>
+<h3>Drag & Drop Menu Builder</h3>
+Ninja Menus comes with top-notch intuitive interface letting you create any mega menu for Magento 2 store within minutes. Just simply drag and drop 11 elements to change its position and size. Then, our Ninja Menus will do the rest for you.
+
+Easily manage menu items to create multiple columns within a few clicks. Add, edit and save them to display professional menu at a glance.
+
+Live Preview mode helps save your time configuring. It displays your menu's look (position, content, color, and size) right from the backend.
 </div>
             </td>
 			<td width="50%">
               <div class="col-md-6">
-<p><img title="Magento 2 Mega Menu | Fully Responsive" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_mega_menu_-_Fully_responsive.png" alt="Magento 2 Mega Menu | Fully Responsive"></p>
+<p><<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/drag-drop-mega-menu-builder.png" alt="Drag &amp; Drop Mega Menu Builder" height="463" width="610"></p>
 </div>
             </td>
         </tr>

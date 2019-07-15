@@ -125,12 +125,6 @@ Live Preview mode helps save your time configuring. It displays your menu's look
 		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/magezon-core-builder.png" alt="Magezon Core Builder" height="121" width="200"><h2 class="mgz-element-heading"> Magezon Core Builder</h2><p><span style="font-weight: 400;">Like <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magezon Page Builder</a>, <a href="https://www.magezon.com/magento-2-form-builder.html/">Blue Form Builder</a> and <a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Single Product Page Builder</a>, Ninja Menus uses the same backend builder. Getting familiar with one means you know how to use all of them.</span></p></td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/custom-css-supported.png" alt="Custom CSS Supported" height="121" width="200"><h4 class="mgz-element-heading"> Custom CSS Supported</h4><p><span>Want to add a bit of Custom CSS code for your mega menu? With Ninja Menus, you can do so directly from the builder. Just click the setting icon on the toolbar and add your own code.</span></p></td><td><h4><a href="http://ninjamenus.m2.magezon.com/autologin/backend?r=ninjamenus/menu/edit&amp;menu_id=1" class="mgz-btn" title="See Our Free Demo"><span>See Our Free Demo</span></a></h4></td></tr>
        </table>
 	</td></tr>
-	<tr>
-	<td colspan=2><table>
-		<tr><td>1</td><td>2</td><td>3</td></tr>
-		<tr><td>4</td><td>5</td><td>6</td></tr>
-       </table></td>
-</tr>
 	        <tr id="11-elements-supported">
             <td>
                 <div class="col-md-6">
@@ -215,31 +209,42 @@ With our tabbed element, you can organize your submenus into tabs which locate o
                 </td>
 				<td width="50%">
                   <div class="col-md-6">
+			  <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/mega-menu-lazy-load.gif" alt="">
 </div>
 </td>
             </tr>
 	       <tr id="guide">
 				<td width="50%">
-                  <div class="col-md-6"><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/mega-menu-lazy-load.gif" alt="">
+                  <div class="col-md-6"><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/mega-menu-seo-friendly.png" alt="">
 </div>
 </td>
                 <td>
                  <div class="col-md-6">
-<h3></h3>
+<h3>SEO Friendly</h3>Ninja Menus gives your customers great navigation while shoppingat your site. Hence, their experience will be boosted as it's easier to find what they want. As a result, the average time spent on your site and the traffic will be increased.
+
+The simpler site structure tells search engine crawlers exactly where are your most important pages and give them faster ways to get to those ones.
 </div>
                 </td>
             </tr>
 	       <tr id="guide">
                 <td>
                  <div class="col-md-6">
-<h3></h3>
+<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/support-multiple-stores-and-languages.png" alt="" height="170" width="460">
 </div>
                 </td>
 				<td width="50%">
                   <div class="col-md-6">
+			  <h3>Support Multiple Stores and Languages</h3>
+			  <p><span style="color: #ffffff;">The more language preferences your site gets, the more convincing it will be. Ninja Menus lets you create menu in different languages.</span></p>
 </div>
 </td>
             </tr>
+	    <tr>
+	<td colspan=2><table>
+		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/support-widget.png" alt="Support Widget" height="121" width="200"><h4 class="mgz-element-heading"> Support Widget</h4>Ninja Menus support widget that helps display your menu in any position such as header, sidebar, footer,etc. No technical knowledge required.</td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/import-store-categories.png" alt="Import Store Categories" height="121" width="200"><h4 class="mgz-element-heading"> Import Store Categories</h4>Our menu builder allows directly importing all store categories or one single category right from the start. This feature definitely saves you a lot of time configuring.</td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/sticky-menu.png" alt="Sticky Menu" height="121" width="200"><h4 class="mgz-element-heading"> Sticky Menu</h4>Improve your customers' experience by letting them access the navigation menu at any time without scrolling back to top.</td></tr>
+		<tr><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/2-icon-libraries.png" alt="2 icon libraries" height="121" width="200"><h4 class="mgz-element-heading"> 2 fonts icon library</h4>2 icon libraries give you more choices in the design progress. Select the icons that fit your style most from 990 icons in Awesome 5 library and over 150 in Open Iconic.</td><td><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/developer-friendly.png" alt="Developer Friendly" width="200"><h4 class="mgz-element-heading"> Developer Friendly</h4>Wanna extend your menus? Our extension strictly follows Magento 2 standards that let every developer extends it at ease.</td><td></td></tr>
+       </table></td>
+</tr>
 	</tbody>
 </table>
 <br/>

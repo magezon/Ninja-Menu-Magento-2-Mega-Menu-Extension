@@ -115,10 +115,15 @@ Live Preview mode helps save your time configuring. It displays your menu's look
             </td>
 			<td width="50%">
               <div class="col-md-6">
-<p><<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/drag-drop-mega-menu-builder.png" alt="Drag &amp; Drop Mega Menu Builder"></p>
+<p><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/drag-drop-mega-menu-builder.png" alt="Drag &amp; Drop Mega Menu Builder"></p>
 </div>
             </td>
         </tr>
+	<tr><td colspan=2>
+	<table><tr><td>1</td><td>2</td><td>3</td></tr>
+		<tr><td>4</td><td>5</td><td>6</td></tr>
+</table>
+	</td></tr>
         <tr id="cache">
             <td>
                 <div class="col-md-6">

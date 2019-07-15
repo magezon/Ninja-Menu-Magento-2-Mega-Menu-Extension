@@ -265,92 +265,102 @@ The simpler site structure tells search engine crawlers exactly where are your m
 <table>
     <tr>
         <td width="40%">
-		    <div class="col-md-6">
-<h3><span id="docs-internal-guid-db861003-7fff-4cd8-bbb6-5125f743fa77" style="color: #ff6600;">The Ultimate Magento 2 Menu</span></h3>
+		<div class="col-md-6">
+<h3><span style="color: #ff6600;">The Ultimate Magento 2 Mega Menu</span></h3>
 <ul>
-<li>Fully Responsive</li>
-<li>Mega Submenus</li>
-<li>Drop-down, drop line, fly-out, accordion menu types</li>
-<li>Compatible with mobile devices</li>
-<li>Also display menu subtitle</li>
+<li>Create beautiful menu layouts</li>
+<li>Fully Responsive - Mobile Friendly</li>
+<li>Display menu in 4 types</li>
+<li>8 Predefined Menus</li>
+<li>Drag &amp; Drop Menu Builder <strong style="color: #ff5501;">FEATURED</strong></li>
+<li>11 elements supported</li>
+<li>Menu Item</li>
+<li>Fastest load time, Cache Supported <strong style="color: #ff5501;">FEATURED</strong></li>
+<li>Lazy Load technique</li>
+<li>SEO Friendly</li>
+<li>Support Multiple Stores and Languages</li>
+<li>100% Compatible with: Magezon Page Builder, Ultimo, Porto theme</li>
 </ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Easy to use</span></h3>
+<h3><span style="color: #ff6600;">Menu Item &amp; Submenu</span></h3>
 <ul>
-<li>No coding skills required</li>
-<li>Drag &amp; drop Magento 2 Menu Builder</li>
-<li>100% responsive</li>
-<li>Fastest load time, cache supported</li>
-<li>Support multiple stores and languages</li>
-<li>Works out of the box</li>
-<li>Multiple stores views</li>
-<li>Sticky menu makes your menu floating despite scrolling</li>
-<li>Import store categories button helps save time</li>
-</ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Boost sales</span></h3>
-<ul>
-<li>Show time countdown in the popup</li>
-<li>Display Related Products, Cross-sells or Up-sells right in the popup</li>
-<li>Product page support</li>
-</ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Fully Configurable</span></h3>
-<ul>
-<li>Links categories, CMS pages, custom link</li>
-<li>Support widget</li>
-<li>Instant import store categories</li>
-<li>Enhanced font awesome icons</li>
-<li>Built-in LESS stylesheets</li>
-<li>Multiple menus can be configured independently</li>
-<li>Inline CSS for developers</li>
-</ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Advanced Submenu Layouts</span></h3>
-<ul>
+<li>Create unlimited menu items</li>
+<li>Create unlimited levels</li>
+<li>Multiple rows and columns</li>
+<li>Set up title and subtitle at the same time</li>
+<li>4 link types supported: Category, CMS Page, Product and Custom links</li>
+<li>Caret, Icon, Animation supported</li>
+<li>Tabbed submenus</li>
+<li>2 submenu types: Mega Submenu and Stack Submenu</li>
+<li>7 Mega Submenu positions</li>
+<li>Configure the visibility of menu below/above breakpoint</li>
+<li>Set up nofollow option link</li>
 <li>Individually configure the width of each column, or set a default for each submenu</li>
 <li>Set background images for each submenu</li>
-<li>Design menu in 3 conditions: Normal, hover and active</li>
-<li>Check out border, padding by Css Box</li>
-<li>Set alignment, Border Style, Font Size(px)</li>
+<li>Support targets to open attached links</li>
+</ul>
+<h3><span style="color: #ff6600;">Fast and Easy to use</span></h3>
+<ul>
+<li>No coding skills required</li>
+<li>Drag &amp; drop Magento 2 gestures</li>
+<li>Import store categories button helps save time</li>
+<li>8 pre-designed menus lets create menu at a glance</li>
+<li>Works out of the box</li>
+<li>Sticky menu makes your menu floating despite scrolling</li>
+<li>Easily add menu to desired places using widget</li>
+</ul>
+<h3><span style="color: #ff6600;">Responsive &amp; Mobile</span></h3>
+<ul>
+<li>Freely adjust mobile breakpoint</li>
+<li>Responsive layout</li>
+<li>Hide items for different screen sizes</li>
 </ul>
 </div>
 		</td>
 		 <td width="40%">
-		    <div class="col-md-6">
-<h3><span style="color: #ff6600;"><span id="docs-internal-guid-fc0792a1-7fff-6d5b-9431-36aa8778a1d4">Responsive &amp; Mobile</span></span></h3>
+		   <div class="col-md-6">
+<h3><span style="color: #ff6600;">Easy to Customize</span></h3>
 <ul>
-<li>Freely adjust mobile breakpoint</li>
-<li>Responsive layout</li>
-<li>Configurable Breakpoint</li>
-<li>Hide items for different screen sizes</li>
-</ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Easy to Customize</span></h3>
-<ul>
-<li>Customize individual menu items' styles right from the Menu Item Settings</li>
-<li>CSS for developers</li>
-<li>Support horizontal, vertical, accordion navigation menu</li>
-<li>Support 7 elements: anchor, container, html, image, heading, divider, clear columns</li>
-<li>Create unlimited levels</li>
-<li>Skin builder</li>
-<li>Support multi-column</li>
+<li>Customize individual menu items' style using Style tab</li>
+<li>Easily configure Padding, Font Size and Weight</li>
+<li>Design submenu colors in 3 conditions: Normal, hover and active</li>
+<li>80+ Animation effects</li>
 <li>CSS Classes for developers</li>
-<li>Insert links of many types (Custom, Categories, CMS Page Link)</li>
+<li>Skin builder</li>
 <li>Support Icon and Caret displayed when normal or hover</li>
-<li>Support targets to open attached links</li>
-<li>Class Attribute for developers</li>
 <li>Put the icon where you want</li>
-<li>Insert image to the menu by url or from device</li>
-<li>Support stack and mega submenu</li>
-<li>Support all sub-menu positions including Left, Right - Vertical - Full Height</li>
-<li>Adjust the widge of the submenu freely</li>
-<li>Insert photo, Adjust size, color, position, style of the submenu</li>
+<li>2 fonts icon library with more than 1000 icons supported</li>
+<li>Configure menu in custom device types</li>
+<li>Easily set up Radius, Margin, Border and Padding</li>
+<li>Alignment, Border color and style can be easily configured</li>
+<li>Insert Background with Image or Video from Youtube, Vimeo</li>
+<li>Select your own Background Style</li>
+<li>Parallax effect make menu more attractive</li>
 </ul>
-<h3 dir="ltr"><span style="color: #ff6600;">Additional Elements</span></h3>
+<h3><span style="color: #ff6600;">11 Additional Elements</span></h3>
 <ul>
-<li>Anchor</li>
-<li>Container</li>
-<li>Image</li>
-<li>HTML</li>
+<li>Row</li>
+<li>Text Block</li>
+<li>Menu Item</li>
+<li>Section</li>
 <li>Heading</li>
-<li>Clear columns</li>
-<li>Divider</li>
+<li>Separator</li>
+<li>Empty Space</li>
+<li>Tabs</li>
+<li>Single Image</li>
+<li>Generate Block</li>
+<li>Magento Widget</li>
+</ul>
+<h3><span style="color: #ff6600;">Boost sales</span></h3>
+<ul>
+<li>Good for SEO</li>
+<li>Fast loading site leads to higher traffic</li>
+<li>Display Product List: Top Rated, On-Sale, Best Seller Products</li>
+</ul>
+<h3><span style="color: #ff6600;">Compatibility</span></h3>
+<ul>
+<li>Magezon Page Builder</li>
+<li>Works well with all common Magento themes including Ultimo and Porto</li>
+<li>Works well with 3rd-party Magento extensions</li>
 </ul>
 </div>
 		</td>

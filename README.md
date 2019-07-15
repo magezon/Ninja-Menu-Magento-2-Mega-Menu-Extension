@@ -17,7 +17,7 @@
 <li><a class="fully-responsive ablack" href="#responsive">Fully Responsive - Mobile Friendly</a></li>
 	<li><a class="fully-responsive ablack" href="#display-menu-in-4-types">Display menu in 4 types</a></li>
 					<li><a class="fully-responsive ablack" href="#8-predefined-menus">8 Predefined Menus</a></li>
-<li><a class="drag-drop" href="#drag-drop">Drag & Drop Menu Builder <strong style="color: #ff5501;">(FEATURED)</strong></a></li>
+<li><a class="drag-drop" href="#drag-drop-menu-builder">Drag & Drop Menu Builder <strong style="color: #ff5501;">(FEATURED)</strong></a></li>
 				<li><a class="drag-drop" href="#11-elements-supported">11 elements supported</a></li>
 				<li><a class="drag-drop" href="#menu-item">Menu Item</a></li>
 				<li><a class="drag-drop" href="#fastest-load-time-cache-supported">Fastest load time, Cache Supported</a></li>
@@ -102,7 +102,7 @@ No need to worry, we provide you with 8 most common menus. Just import your desi
 </div>
             </td>
         </tr>
-        <tr id="responsive">
+        <tr id="drag-drop-menu-builder">
             <td>
                 <div class="col-md-6">
 <h3>Drag & Drop Menu Builder</h3>
@@ -115,7 +115,7 @@ Live Preview mode helps save your time configuring. It displays your menu's look
             </td>
 			<td width="50%">
               <div class="col-md-6">
-<p><<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/drag-drop-mega-menu-builder.png" alt="Drag &amp; Drop Mega Menu Builder" height="463" width="610"></p>
+<p><<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/ninjamenus2/drag-drop-mega-menu-builder.png" alt="Drag &amp; Drop Mega Menu Builder"></p>
 </div>
             </td>
         </tr>

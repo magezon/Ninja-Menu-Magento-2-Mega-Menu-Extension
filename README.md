@@ -993,7 +993,7 @@
  <p>
     If you have any questions or need any support, feel free to contact us through these ways below. We will get back to you within 24 hours since you submit your support request.
 </p>
-<li>Submit <a href="https://www.magezon.com/contact">contact form</a>.</li>
+<li>Fill out <a href="https://www.magezon.com/contact">Contact Us</a> form and submit to us.</li>
 <li>Email us at <a href="Email us at support@magezon.com.">support@magezon.com.</a>
 </li>
 <li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a>

@@ -59,6 +59,9 @@
 <br/>
 <h2>Feature Highlights </h2>
 <table>
+    <tr>
+    <td colspan="12"></td> 
+    </tr>
     <tr id="unlimited-level">
         <td colspan="6" width="50%">
             <h3>Create beautiful menu layouts</h3>

@@ -84,7 +84,7 @@
                 <p>Ninja Menus experienced a successful test in all modern mobiles and browsers. Such a huge convenience for customers shopping anywhere, with any device.</p>
                 <p>There are 2 types of menus to be displayed beautifully in mobile devices: Accordion and Drilldown. To save even more space in tiny screens, the hamburger menu is now applied and seems to be an excellent idea for any shop.</p>
                 <p>Choose your own breakpoint - control the limit at which the menu collapses from desktop to mobile mode.</p>
-                <a href="https://www.magezon.com/ninja-menus-fully-resposonsive">Get more info</a>
+                <a href="https://www.magezon.com/ninja-menus-fully-responsive">Get more info</a>
             </div>
         </td>
     </tr>
